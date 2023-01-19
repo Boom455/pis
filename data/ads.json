@@ -1,0 +1,26 @@
+{
+    "product": "F1",
+    "th_name": "ริตเทอร์สปอร์ตช็อกโกแลตนม",
+    "th_name_short": "ช็อกโกแลตนม",
+    "en_name": "Milk Chocolate",
+    "en_name_short": "",
+    "th_brand": "ตราริตเทอร์สปอร์ต",
+    "en_brand": "Ritter Sport",
+    "manufacture": "อัลเฟรด ริตเทอร์ จีเอ็มบีเอช แอนด์ โค เคจี เยอรมณี",
+    "importer": "บริษัท ซีโน่-แปซิฟิค เทรดดิ้ง (ไทยแลนด์) จำกัด",
+    "publisher": "บริษัท ซีโน่-แปซิฟิค เทรดดิ้ง (ไทยแลนด์) จำกัด",
+    "size": "100 กรัม",
+    "barcode": "4000417018007",
+    "type": 1,
+    "food": {
+      "fda_code": "10-3-11523-1-0704",
+      "ingredient": {
+        "sodium": "10%"
+      }
+    },
+    "sign": {
+      "rainforest_alliance_certified": true,
+      "j": false,
+      "halal": true
+    }
+  }
