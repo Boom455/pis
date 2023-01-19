@@ -1,0 +1,14 @@
+.vscode
+
+node_modules
+dist
+*.log
+.old.*
+*.zone.*
+
+*.Identifier
+secret.*
+ecosystem.config.js
+
+deploy.sh
+config.json
