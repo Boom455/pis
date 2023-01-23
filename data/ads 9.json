@@ -1,0 +1,75 @@
+{
+  "product": "9",
+  "th_name": "โยโปกิ โกลเด้น ออเนี่ยน บัทเทอร์ ต๊อกโบ๊กกิ คัพ โภชนา คุณค่าโภชนา",
+  "th_name_short": "ต็อกโบ๊กกิผัดซอสหัวหอมและเนย",
+  "en_name": "Yopokki Golden Onion Butter Topokki Cup",
+  "en_name_short": "Onion Butter Topokki",
+  "th_brand": "ตรายองพุง",
+  "en_brand": "Youngpoong Brand",
+  "manufacture": "บริษัท ยองพุง จำกัด เกาหลี",
+  "importer": "บริษัท แพรรี่มาร์เก็ตติ้ง จำกัด",
+  "publisher": "บริษัท แพรรี่มาร์เก็ตติ้ง จำกัด",
+  "size": "120 กรัม",
+  "barcode": "8809054400536",
+  "type": 1,
+  "FOOD AND DRINK": {
+    "fda_code": "10-3-12535-5-0419",
+    "ingredient": [
+      {"name": "tteokbokki flour", "percent_serving_size": 83.33, "vol": 7},
+      {"name": "sugar", "percent_serving_size": 5.50, "vol": 5},
+      {"name": "cheese seasoning", "percent_serving_size": 3.33, "vol": 4},
+      {"name": "whey powder", "percent_serving_size": 1.58, "vol":3},
+      {"name": "milk powder", "percent_serving_size": 0.83, "vol": 2},
+      {"name": "onion", "percent_serving_size": 0.67, "vol": 4},
+      {"name": "flavoring agent", "percent_serving_size": -1, "vol":-1},
+      {"name": "food additive", "percent_serving_size": -1, "vol":-1}
+    ],
+    "nutrition": {
+      "serving size":"1 ถ้วย (120 กรัม)",
+      "serving per container": "1",
+      "energy serving size":"336 กิโลแคลอรี",
+      "%DV": [
+        [{"name": "fat", "percent_serving_size": 5, "vol": 4},
+         {"name": "saturated fat", "percent_serving_size": 0, "vol": 2},
+         {"name": "trans fat", "percent_serving_size": -1, "vol": 0}
+      ],
+        {"name": "cholesterol", "percent_serving_size": 1, "vol": 0.002},
+        {"name": "protein", "percent_serving_size": -1, "vol": 6},
+        [{"name": "carbohydrate", "percent_serving_size": 25, "vol": 70},
+        {"name": "fiber", "percent_serving_size": -1, "vol": 1},
+        {"name": "sugar", "percent_serving_size": -1, "vol": 9},
+        {"name": "added sugar", "percent_serving_size": 14, "vol": 7}
+      ],
+        {"name": "sodium", "percent_serving_size": 21, "vol": 0.49},
+        {"name": "vitamin d", "percent_serving_size": 0, "vol": 0},
+        {"name": "calcium", "percent_serving_size": 4, "vol": 0.054},
+        {"name": "iron", "percent_serving_size": 0, "vol": 0},
+        {"name": "potassium", "percent_serving_size": 3, "vol": 0.152}
+      ]
+    },
+    "nutritional value": "",
+    "storage": "-",
+    "allergy":["นม", "ถั่วเหลือง"]
+    
+  
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "vegan": false,
+    "halal": false,
+    "recycle": true,
+    "Gluten Free": false,
+    "Fat Free": false,
+    "ISO 9001": false,
+    "Export Quality": false,
+    "Biomat": false,
+    "Environmental Friendly": false,
+    "No CFCs": false,
+    "BPA free": false,
+    "Thailand Trusted Quality Mark": false
+
+    }
+  }
+  
+   
+    

@@ -1,0 +1,57 @@
+ {
+    "product": "6",
+    "th_name": "บรูคแกงกะหรี่หมูสไตล์ญี่ปุ่น",
+    "th_name_short": "แกงกะหรี่หมู",
+    "en_name": "Pork Curry Japanese Style",
+    "en_name_short": "Pork Curry",
+    "th_brand": "ตราบรูค",
+    "en_brand": "Brcok",
+    "manufacture": "บริษัท ไทยนิสชิน เซฟุง จำกัด และ บริษัท เจอาร์ เอฟ แอนด์ บี จำกัด",
+    "publisher": "บริษัท ไทยนิสชิน เซฟุง จำกัด และ บริษัท เจอาร์ เอฟ แอนด์ บี จำกัด",
+    "size": "120 กรัม",
+    "barcode": "8850358012130",
+    "type": 1,
+    "FOOD AND DRINK": {
+      "fda_code": "11-1-32131-5-0003",
+      "ingredient": [
+        {"name": "vegetable", "percent_serving_size": 15.56, "vol": 8},
+        {"name": "spice", "percent_serving_size": 14.02, "vol": 7},
+        {"name": "pork", "percent_serving_size": 10.29, "vol": 6},
+        {"name": "stir fried vegetables", "percent_serving_size": 3.43, "vol": 5},
+        {"name": "tomoto", "percent_serving_size": 2.64, "vol": 4},
+        {"name": "milk", "percent_serving_size": 2.64, "vol": 3},
+        {"name": "wheat flour", "percent_serving_size": 1.81, "vol": -1},
+        {"name": "food additive", "percent_serving_size": -1, "vol": -1},
+        {"name": "flavoring agent", "percent_serving_size": -1, "vol": -1},
+        {"name": "coloring agent", "percent_serving_size": -1, "vol": -1},
+        {"name": "sugar substitute ", "percent_serving_size": -1, "vol": -1}
+
+      ],
+      "nutrition":"-",
+      "nutritional value": "-",
+      "storage": ["เก็บในที่แห้ง หลีกเลี่ยงแสงแดดและอุณหภูมิสูง"],
+      "warning":["ห้ามนำบรรจุภัณฑ์เข้าไมโครเวฟ", "ไม่บริโภคหากพบว่าบรรจุภัณฑ์ชำรุด"],
+      "allergy": ["ข้าวสาลี", "ไข่", "ปลา", "ถั่วเหลือง", "นม"]
+      
+    
+    },
+    "sign": {
+      "rainforest_alliance_certified": false,
+      "vegan": false,
+      "halal": false,
+      "recycle": false,
+      "Gluten Free": false,
+      "Fat Free": false,
+      "ISO 9001": false,
+      "Export Quality": false,
+      "Biomat": false,
+      "Environmental Friendly": false,
+      "No CFCs": false,
+      "BPA free": false,
+      "Thailand Trusted Quality Mark": false
+
+      }
+    }
+  
+   
+    

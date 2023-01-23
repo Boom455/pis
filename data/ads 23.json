@@ -1,0 +1,67 @@
+{
+  "product": "23",
+  "th_name": "เบบี้ ไบร์ท มูด แมทท์ บลัชเชอร์ #04 เลิฟ แก้ingre",
+  "th_name_short": "ผลิตภัณฑ์ตกแต่งผิวหน้า",
+  "en_name": "Bany Bright Mood Matte Blusher #04 Love",
+  "en_name_short": "Matte Blusher",
+  "th_brand": "เบบี้ ไบร์ท",
+  "en_brand": "Baby Bright",
+  "manufacture": "คาร์บาร์ท อินเตอร์เนชั่นแนล คอมปะนีลิมิเต็ด จีน",
+  "importer": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
+  "publisher": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
+  "size": "4.5 กรัม",
+  "barcode": "8858842093627",
+  "type": 5,
+  "BEAUTY AND PERSONAL CARE": {
+    "fda_code": "10-2-6400022449",
+    "ingredient": [
+    {"name": "mica", "percent_serving_size": -1, "vol": -1},
+    {"name": "talc", "percent_serving_size": -1, "vol": -1},
+    {"name": "magnesium stearate", "percent_serving_size": -1, "vol": -1},
+    {"name": "ethylhexyl palmitate", "percent_serving_size": -1, "vol": -1},
+    {"name": "paraffinum liquidum", "percent_serving_size": -1, "vol": -1},
+    {"name": "dimethicone", "percent_serving_size": -1, "vol": -1},
+    {"name": "polyethylene", "percent_serving_size": -1, "vol": -1},
+    {"name": "polybutene", "percent_serving_size": -1, "vol": -1},
+    {"name": "methylparaben", "percent_serving_size": -1, "vol": -1},
+    {"name": "propylparaben", "percent_serving_size": -1, "vol": 1},
+    {"name": "tocopheryl acetate", "percent_serving_size": -1, "vol": -1},
+    {"name": "ci 15850", "percent_serving_size": -1, "vol": -1},
+    {"name": "ci 77491", "percent_serving_size": -1, "vol": -1},
+    {"name": "ci 77499", "percent_serving_size": -1, "vol": -1},
+    {"name": "sodium saccharin", "percent_serving_size": -1, "vol": -1},
+    {"name": "dipotassium glycyrrhizate", "percent_serving_size": -1, "vol": -1},
+    {"name": "D-limonene", "percent_serving_size": -1, "vol": -1},
+    {"name": "ethylparaben", "percent_serving_size": -1, "vol": -1},
+    {"name": "butylparaben", "percent_serving_size": -1, "vol": -1},
+    {"name": "eugenol", "percent_serving_size": -1, "vol": -1},
+    {"name": "mentha arvensis leaf oil", "percent_serving_size": -1, "vol": -1},
+    {"name": "ubiqulnone", "percent_serving_size": -1, "vol": -1}
+    ],
+    "storage":["ปิดฝาให้สนิททุกครั้งหลังใช้งาน"],
+    "usage":["ใช้แปรงแตะมูด แมทท์ บลัชเชอร์ ในปริมาณที่พอเหมาะ นำมาปัดบริเวณแก้ม หรือทาบนเปลือกตาแทนการใช้อายแชโดว์"],
+    "warning":["หากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้นต้องหยุดใช้และปรึกษาแพทย์หรือเภสัชกร"]
+      
+    
+  },
+  
+  "sign": { 
+    "rainforest_alliance_certified": false,
+    "recycle": true,
+    "ISO 9001": false,
+    "Export Quality": false,
+    "Biomat": false,
+    "Environmental Friendly": true,
+    "No CFCs": false,
+    "BPA free": false,
+    "Thailand Trusted Quality Mark": false,
+    "Alcohol free" : false,
+    "Paraben free" : false,
+    "Fragrance free" : false,
+    "NON IRRITATION TESTED" : false,
+    "Biodegradable" : false,
+    "Pycnogenol" : false
+
+
+  }
+}

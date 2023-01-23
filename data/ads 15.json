@@ -1,0 +1,40 @@
+{
+  "product": "15",
+  "th_name": "Double Lock กล่องอาหารสี่เหลี่ยม Tritan",
+  "th_name_short": "กล่องอาหาร",
+  "en_name": "Tritan Double Lock",
+  "en_name_short": "Food Container",
+  "th_brand": "ดับเบิ้ลล็อค",
+  "en_brand": "Double Lock",
+  "manufacture": "บริษัท เจซีเจพลาส จำกัด",
+  "publisher": "บริษัท เจซีเจพลาส จำกัด",
+  "size": "11.5*15.5*7.1 cm",
+  "barcode": "8852080519178",
+  "type": 3,
+  "HOUSEHOLD ESSENTIALS": {
+    "storage":["เก็บให้ห่างจากเปลวไฟ"],
+    "usage":["ก่อนและหลังใช้งานควรทำความสะอาด", "เหมาะใช้ในการอุ่นอาหาร ห้ามใช้ปรุงอาหาร", "ห้ามทำความสะอาดด้วยน้ำยาที่มีฤทธิ์เป็นกรดและวัตถุที่มีผิวหยาบ"],
+    "warning":["ปลอดภัยใช้กับอาหาร", "รับอุณหภูมิได้ที่ -20 องศาเซลเซียส ถึง 110 องศาเซลเซียส"]
+    
+
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "ISO 9001": false,
+    "Export Quality": false,
+    "Biomat": false,
+    "Environmental Friendly": false,
+    "No CFCs": false,
+    "BPA free": true,
+    "Thailand Trusted Quality Mark": true,
+    "Alcohol free" : true,
+    "Paraben free" : true,
+    "Fragrance free" : false,
+    "NON IRRITATION TESTED" : false,
+    "Biodegradable" : false,
+    "Pycnogenol" : false
+
+
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "product": "25",
+  "th_name": "เวย์โปรตีนซิกตี้พลัส",
+  "th_name_short": "ผลิตภัณฑ์ของนม",
+  "en_name": "Whey protein plus collagen vitamin and mineral",
+  "en_name_short": "Whey protein",
+  "th_brand": "โปรเฟลคซ์",
+  "en_brand": "Proflex",
+  "manufacture": "บริษัท ไรซ์ ยูนิคอร์น จำกัด",
+  "publisher": "บริษัท ไรซ์ ยูนิคอร์น จำกัด",
+  "size": "500 กรัม",
+  "barcode": "8859542601129",
+  "type": 6,
+  "HEALTH AND WELLNESS": {
+    "fda_code": "13-2-01962-5-0006",
+    "ingredient": [
+      {"name": "Whey protein isolate", "percent_serving_size": 91.56, "vol": 7},
+      {"name": "calcium citrate", "percent_serving_size": 4.69, "vol": 3},
+      {"name": "vitamins and minerals", "percent_serving_size": 3.63, "vol": 2},
+      {"name": "collagen type II", "percent_serving_size": 0.125, "vol": -1}
+    ],
+      "nutrition": {
+      "serving size":"2 ช้อนโต๊ะ (32 กรัม)",
+      "serving per container": "16",
+      "energy serving size": "110 กิโลแคลอรี",
+    "%DV": [
+      {"name": "fat", "percent_serving_size": 0, "vol": 0},
+      {"name": "protein", "percent_serving_size": -1, "vol": 26},
+      [{"name": "carbohydrate", "percent_serving_size": 1, "vol": 2},
+       {"name": "sugar", "percent_serving_size": -1, "vol": 0}
+    ],
+      {"name": "cholesterol", "percent_serving_size": 0, "vol": 0},
+      {"name": "fiber", "percent_serving_size": 3, "vol": 1},
+      {"name": "vitamin b12", "percent_serving_size": 200, "vol": 1}
+
+  ]
+  },
+    "nutritional value": "-",
+    "storage": "-",
+    "usage":["กินทุกเช้า วันละครั้ง ก่อนหรือหลังมื้ออาหาร"],
+    "allergy":["โปรตีนจากนม"]
+
+    
+    
+  },
+  
+  "sign": { 
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "ISO 9001": false,
+    "Export Quality": false,
+    "Biomat": false,
+    "Environmental Friendly": false,
+    "No CFCs": false,
+    "BPA free": false,
+    "Thailand Trusted Quality Mark": false,
+    "Alcohol free" : false,
+    "Paraben free" : false,
+    "Fragrance free" : false,
+    "NON IRRITATION TESTED" : false,
+    "Biodegradable" : false,
+    "Pycnogenol" : false
+
+
+  }
+}
