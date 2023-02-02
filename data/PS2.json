@@ -1,0 +1,73 @@
+{
+  "product": "PS2",
+  "th_name": "สุกินะผ้าอ้อมสุนัขไซส์ XL ",
+  "th_name_short": "ผ้าอ้อมสุนัข",
+  "en_name": "Sukina Petto Diaper Size XL",
+  "en_name_short": "Petto Diaper",
+  "th_brand": "สุกินะผ้าอ้อม",
+  "en_brand": "Sukina Pet",
+  "manufacture": "ประเทศจีน",
+  "publisher": "บริษัท เยื่ยมพาณิชย์ อินเตอร์เนชั่นแนล",
+  "size": "8 ชิ้น",
+  "barcode": "8857200077491",
+  "type": 10,
+  "pets_supplies": {
+    "ingredient": [
+      {
+        "name": "synthetic fabrics",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "wood pulp",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "paper",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "absorbent gel",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "polyethylene",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "storage": [],
+    "usage": [
+      "ใช้สำหรับสุนัข ที่กำลังฝึกขับถ่าย",
+      "ใช้หลังผ่าตัด หรือได้รับบาดเจ็บ",
+      "ป้องกันการผสมพันธุ์โดยไม่ได้ตั้งใจ",
+      "ใช้ในสุนัขที่ไม่สามารถกลั้นปัสสาวะได่",
+      "สุนัขที่อยู่ในช่วงมีประจำเดือน",
+      "ป้องกันได้ทั้งกลางวัน และกลางคืน"
+    ],
+    "warning": [
+      "ใช้หลังผ่าตัด"
+    ],
+    "allergy": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "product": "FD4",
+  "th_name": "สิงห์ เลมอนโซดา",
+  "th_name_short": "เครื่องดื่มเลมอนโซดา",
+  "en_name": "Singha Lemon Soda",
+  "en_name_short": "Lemon Soda",
+  "th_brand": "ตราสิงห์ เลมอนโซดา",
+  "en_brand": "Singha Lemon Soda",
+  "manufacture": "บริษัท ชบาบางกอก จำกัด",
+  "importer": "บริษัท สิงห์ คอร์เปอเรชั่น จำกัด",
+  "publisher": "บริษัท สิงห์ คอร์เปอเรชั่น จำกัด",
+  "size": "330 มิลลิลิตร",
+  "barcode": "8850999016863",
+  "type": 1,
+  "food_and_drink": {
+    "fda_code": "1320725820045",
+    "ingredient": [
+      {
+        "name": "lemon juice",
+        "percent_serving_size": 1.5,
+        "vol": 5
+      },
+      {
+        "name": "carbon dioxide",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "acidity regulator",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "antioxidant",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "stabilizer",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "preservatives",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "sucralose",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "nutrition": {
+      "serving_size": "1 กระป๋อง (330 มล.)",
+      "serving_per_container": "1",
+      "energy_serving_size": "0 กิโลแคลอรี",
+      "dv": [
+        {
+          "name": "fat",
+          "percent_serving_size": 0,
+          "vol": 0
+        },
+        {
+          "name": "protein",
+          "percent_serving_size": -1,
+          "vol": 0
+        },
+        [
+          {
+            "name": "carbohydrate",
+            "percent_serving_size": 0,
+            "vol": 0
+          },
+          {
+            "name": "sugar",
+            "percent_serving_size": -1,
+            "vol": 0
+          }
+        ],
+        {
+          "name": "sodium",
+          "percent_serving_size": 5,
+          "vol": 0.105
+        },
+        {
+          "name": "vitamin c ",
+          "percent_serving_size": 60,
+          "vol": -1
+        }
+      ]
+    },
+    "nutritional_value": [
+      {
+        "name": "energy",
+        "percent_serving_size": 0,
+        "kcal": 0
+      },
+      {
+        "name": "sugar",
+        "percent_serving_size": 0,
+        "vol": 0
+      },
+      {
+        "name": "fat",
+        "percent_serving_size": 0,
+        "vol": 0
+      },
+      {
+        "name": "sodium",
+        "percent_serving_size": 5,
+        "vol": 0.095
+      }
+    ],
+    "storage": [],
+    "allergy": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "vegan": false,
+    "halal": true,
+    "recycle": true,
+    "gluten_free": false,
+    "fat_free": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false
+  }
+}

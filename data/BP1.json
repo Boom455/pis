@@ -1,0 +1,53 @@
+{
+  "product": "BP1",
+  "th_name": "วอเตอร์เลส แฮนด์ คลีนซิ่ง สเปรย์",
+  "th_name_short": "สเปรย์ทำความสะอาดมือ",
+  "en_name": "Waterless Hand Cieansing Spray",
+  "en_name_short": "Hand Cieansing Spray",
+  "th_brand": "เวอร์.88",
+  "en_brand": " ver.88",
+  "manufacture": "บริษัท พีซีซีเอ แล็บนอราเกอรี่ จำกัด",
+  "publisher": "บริษัท 88 (ไทยแลนด์) จำกัด",
+  "size": "50 มิลลิลิตร",
+  "barcode": "8859249701634",
+  "type": 5,
+  "beauty_and_personal_care": {
+    "fda_code": "2016300008980",
+    "ingredient": [
+      {
+        "name": "alcohol water",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "storage": [
+      "เพื่อรักษาคุณภาพของผลิตภัณฑ์ ควรเก็บให้พ้นจากแสงแดดและที่อุณหภูมิสูง"
+    ],
+    "usage": [
+      "ฉีดสเปรย์ลงบนฝ่ามือ ถูให้ทั่วฝ่ามือจนแห้งโดยไม่ต้องล้างออก",
+      "เด็กใช้ได้ตั้งแต่อายุ 3 ปีขึ้นไป"
+    ],
+    "warning": [
+      "หากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้น ควรหยุดใช้และปรึกษาแพทย์ทันที",
+      "ห้ามวางหรือใช้ใกล้เปลวไฟ",
+      "ใช้เฉพาะภายนอกเท่านั้น ห้ามรับประทาน"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": true,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

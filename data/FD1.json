@@ -1,0 +1,127 @@
+{
+  "product": "FD1",
+  "th_name": "ริตเทอร์สปอร์ตช็อกโกแลตนม",
+  "th_name_short": "ช็อกโกแลตนม",
+  "en_name": "Ritter Sport Alpine Milk Chocolate",
+  "en_name_short": "Milk Chocolate",
+  "th_brand": "ตราริตเทอร์สปอร์ต",
+  "en_brand": "Ritter Sport",
+  "manufacture": "อัลเฟรด ริตเทอร์ จีเอ็มบีเอช แอนด์ โค เคจี เยอรมนี",
+  "importer": "บริษัท ซีโน่-แปซิฟิค เทรดดิ้ง (ไทยแลนด์) จำกัด",
+  "publisher": "บริษัท ซีโน่-แปซิฟิค เทรดดิ้ง (ไทยแลนด์) จำกัด",
+  "size": "100 กรัม",
+  "barcode": "4000417018007",
+  "type": 1,
+  "food_and_drink": {
+    "fda_code": "1031152310704",
+    "ingredient": [
+      {
+        "name": "sugar",
+        "percent_serving_size": 47,
+        "vol": 6
+      },
+      {
+        "name": "cocoa",
+        "percent_serving_size": 29,
+        "vol": 2
+      },
+      {
+        "name": "milk powder",
+        "percent_serving_size": 20,
+        "vol": 1
+      },
+      {
+        "name": "emulsifier",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "nutrition": {
+      "serving_size": "4 ชิ้น (25 กรัม)",
+      "serving_per_container": "4",
+      "energy_serving_size": "140 กิโลแคลอรี",
+      "dv": [
+        {
+          "name": "fat",
+          "percent_serving_size": 12,
+          "vol": 8
+        },
+        {
+          "name": "cholesterol",
+          "percent_serving_size": 2,
+          "vol": 0.005
+        },
+        {
+          "name": "protein",
+          "percent_serving_size": -1,
+          "vol": 2
+        },
+        [
+          {
+            "name": "carbohydrate",
+            "percent_serving_size": 5,
+            "vol": 14
+          },
+          {
+            "name": "sugar",
+            "percent_serving_size": -1,
+            "vol": 14
+          }
+        ],
+        {
+          "name": "sodium",
+          "percent_serving_size": 1,
+          "vol": -1
+        }
+      ]
+    },
+    "nutritional_value": [
+      {
+        "name": "energy",
+        "percent_serving_size": 28,
+        "kcal": 560
+      },
+      {
+        "name": "sugar",
+        "percent_serving_size": 86,
+        "vol": 56
+      },
+      {
+        "name": "fat",
+        "percent_serving_size": 49,
+        "vol": 32
+      },
+      {
+        "name": "sodium",
+        "percent_serving_size": 3,
+        "vol": 0.06
+      }
+    ],
+    "storage": [
+      "ควรเก็บในที่เย็นและแห้ง"
+    ],
+    "allergy": [
+      "นมผง",
+      "เฮเซลนัทบด",
+      "เลซิทินจากถั่วเหลือง",
+      "ถั่วลิสง",
+      "กลูเตน",
+      "ไข่"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": true,
+    "vegan": false,
+    "halal": false,
+    "recycle": false,
+    "gluten_free": false,
+    "fat_free": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "product": "ET1",
+  "th_name": "พานาโซนิคถ่านอัลคาไลน์AA",
+  "th_name_short": "ถ่านพานาโซนิค",
+  "en_name": "Panasonic Alkaline AA",
+  "en_name_short": "Panasonic Alkaline",
+  "th_brand": "พานาโซนิค",
+  "en_brand": "Panasonic",
+  "manufacture": "บริษัท พานาโซนิค เอเนอร์ (ประเทศไทย) จำกัด",
+  "publisher": "บริษัท พานาโซนิค เอเนอร์ (ประเทศไทย) จำกัด",
+  "size": "2 ก้อน",
+  "barcode": "4984824089198",
+  "type": 4,
+  "electronic": {
+    "fda_code": "96 เล่ม 2 2560",
+    "storage": [
+      "ควรนำถ่านออกเมื่อหยุดใช้เป็นเวลานาน"
+    ],
+    "usage": [
+      "ใช้กับอุปกรณ์เครื่องใช้อิเล็กทรอนิกส์"
+    ],
+    "warning": [
+      "ห้ามประจุไฟใหม่ ใส่ถ่านสลับขั้ว ใส่ถ่านต่างชนิด หรือเผาไฟ เพราะอาจทำให้เกิดการระเบิดหรือรั่วซึมได้",
+      "ห้ามแกะถ่าน",
+      "ทิ้งถ่านที่ใช้แล้วทันที ตามข้อกำหนดของท้องถิ่น"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

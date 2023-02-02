@@ -1,0 +1,93 @@
+{
+  "product": "HW1",
+  "th_name": "เวอร่าสกิน เมลา 5",
+  "th_name_short": "ผลิตภัณฑ์เสริมอาหาร",
+  "en_name": "Verraskin Mela-5",
+  "en_name_short": "Verraskin Mela-5",
+  "th_brand": "เวอร่าสกิน",
+  "en_brand": "Verraskin",
+  "manufacture": "บริษัท อินโนวาเฮลท์ จำกัด",
+  "publisher": "บริษัท เมดโนวา (ไทยแลนด์) จำกัด",
+  "size": "15 แคปซูล",
+  "barcode": "8859469200054",
+  "type": 6,
+  "health_and_wellness": {
+    "fda_code": "2010356350072",
+    "ingredient": [
+      {
+        "name": "licorice extract",
+        "percent_serving_size": -1,
+        "vol": 0.15
+      },
+      {
+        "name": "l-glutathione",
+        "percent_serving_size": -1,
+        "vol": 0.125
+      },
+      {
+        "name": "tomato extract",
+        "percent_serving_size": -1,
+        "vol": 0.085
+      },
+      {
+        "name": "vitamin c",
+        "percent_serving_size": -1,
+        "vol": 0.03
+      },
+      {
+        "name": "coenzyme q10",
+        "percent_serving_size": -1,
+        "vol": 0.03
+      },
+      {
+        "name": "french maritime pine bark extract",
+        "percent_serving_size": -1,
+        "vol": 0.025
+      },
+      {
+        "name": "alpha-lipoic acid",
+        "percent_serving_size": -1,
+        "vol": 0.025
+      },
+      {
+        "name": "vitamin e",
+        "percent_serving_size": -1,
+        "vol": 0.02
+      },
+      {
+        "name": "zinc amino acid chelate",
+        "percent_serving_size": -1,
+        "vol": 0.015
+      }
+    ],
+    "storage": [
+      "เก็บไว้ในที่แห้งและเย็น",
+      "ควรเก็บให้พ้นมือเด็ก"
+    ],
+    "usage": [
+      "รับประทานวันละ 2 แคปซูล ก่อนอาหาร"
+    ],
+    "warning": [
+      "เด็ก สตรีมีครรภ์และสตรีให้นมบุตร ไม่ควรรับประทาน",
+      "ไม่มีผลในการป้องกันหรือรักษาโรค",
+      "มีซองวัตถุกันชื้น"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": true,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": true,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": true
+  }
+}

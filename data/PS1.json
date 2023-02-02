@@ -1,0 +1,84 @@
+{
+  "product": "PS1",
+  "th_name": "Absorb Plus กลิ่นแป้งเด็ก สูตรอ่อนโยน ",
+  "th_name_short": "ผ้าเปียกทำความสะอาด",
+  "en_name": "Antibacterial Pet Wipes",
+  "en_name_short": "Pet Wipes",
+  "th_brand": "แอดซอร์บ พลัส",
+  "en_brand": "Adsorb Plus",
+  "manufacture": "ประเทศจีน",
+  "importer": "บริษัท เพ็ทเซอร์เคิล จำกัด",
+  "publisher": "บริษัท เพ็ทเซอร์เคิล จำกัด",
+  "size": "50 แผ่น",
+  "barcode": "6932844603021",
+  "type": 10,
+  "pets_supplies": {
+    "ingredient": [
+      {
+        "name": "water",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "phenoxyethanol",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "polysorbate 20",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "benzalkonium chloride",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "ethanol",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "Hydrogen peroxide",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "Flavoring agent",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "storage": [
+      "เปิดฝาออก",
+      "ดึงผ้าออก",
+      "กรุณาปิดฝาให้สนิทหลังใช้งาน เพื่อป้องกันไม่ให้กระดาษเปียกแห้ง"
+    ],
+    "usage": [
+      "ใช้สำหรับเช็ดทำความสะอาดสัตว์เลี้ยง"
+    ],
+    "warning": [
+      "ห้ามทิ้งลงโถชักโครก",
+      "สำหรับใช้ภายนอกเท่านั้น",
+      "เก็บให้พ้นมือเด็ก"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

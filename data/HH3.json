@@ -1,0 +1,54 @@
+{
+  "product": "HH3",
+  "th_name": "ฟาร์เซ็นท์ผลิตภัณฑ์ทำความสะอาดท่อและชักโครกตัน",
+  "th_name_short": "น้ำยาขจัดท่อน้ำตัน",
+  "en_name": "Farcent Drain Disinfection Solutiony",
+  "en_name_short": "Disinfection Solution",
+  "th_brand": "ฟาร์เซ็นท์",
+  "en_brand": "Farcent",
+  "manufacture": "บริษัท นวศรี แมนูแฟคเจอริ่ง จำกัด",
+  "publisher": "บริษัท ฟาร์เซ็นท์ เอ็นเตอร์ไพรส์ (ประเทศไทย) จำกัด",
+  "size": "1000 มิลลิลิตร",
+  "barcode": "4710731050101",
+  "type": 3,
+  "household_essentials": {
+    "fda_code": "วอส.80/2559",
+    "ingredient": [
+      {
+        "name": "sodium hydroxide",
+        "percent_serving_size": 25,
+        "vol": 4
+      }
+    ],
+    "storage": [
+      "ปิดฝาให้สนิท",
+      "เก็บในที่แห้งและมิดชิด ห่างจากเด็ก อาหารและสัตว์เลี้ยง"
+    ],
+    "usage": [
+      "ต้องสวมถุงมือยางขณะใช้ทุกครั้ง"
+    ],
+    "warning": [
+      "ห้ามรับประทาน หรือสูดดม",
+      "ระวังอย่าให้เข้าตา",
+      "ขณะใช้ต้องสวมถุงมือยาง รองเท้ายาง ระวังอย่าให้ถูกมือหรือผิงหนัง",
+      "อย่าใช้ ฟาร์เซ็นท์ เดรนโอเพ่นเนอร์ กับท่อเอสล่อนที่มีคุณภาพต่ำ"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": true,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

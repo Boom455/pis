@@ -1,0 +1,117 @@
+{
+  "product": "BP3",
+  "th_name": "เบบี้ ไบร์ท มูด แมทท์ บลัชเชอร์ #04 เลิฟ",
+  "th_name_short": "ผลิตภัณฑ์ตกแต่งผิวหน้า",
+  "en_name": "Bany Bright Mood Matte Blusher #04 Love",
+  "en_name_short": "Matte Blusher",
+  "th_brand": "เบบี้ ไบร์ท",
+  "en_brand": "Baby Bright",
+  "manufacture": "คาร์บาร์ท อินเตอร์เนชั่นแนล คอมปะนีลิมิเต็ด จีน",
+  "importer": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
+  "publisher": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
+  "size": "4.5 กรัม",
+  "barcode": "8858842093627",
+  "type": 5,
+  "beauty_and_personal_care": {
+    "fda_code": "1026400022449",
+    "ingredient": [
+      {
+        "name": "mica",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "talc",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "magnesium stearate",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "ethylhexyl palmitate",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "paraffinum liquidum",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "dimethicone",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "polyethylene",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "polybutene",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "methylparaben",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "propylparaben",
+        "percent_serving_size": -1,
+        "vol": 1
+      },
+      {
+        "name": "tocopheryl acetate",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "ci 15850",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "ci 77491",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "ci 77499",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+      
+    ],
+    "storage": [
+      "ปิดฝาให้สนิททุกครั้งหลังใช้งาน"
+    ],
+    "usage": [
+      "ใช้แปรงแตะมูด แมทท์ บลัชเชอร์ ในปริมาณที่พอเหมาะ นำมาปัดบริเวณแก้ม หรือทาบนเปลือกตาแทนการใช้อายแชโดว์"
+    ],
+    "warning": [
+      "หากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้นต้องหยุดใช้และปรึกษาแพทย์หรือเภสัชกร"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": true,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": true,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}
