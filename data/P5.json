@@ -1,5 +1,5 @@
 {
-  "product": "32",
+  "product": "PS3",
   "th_name": "ถุงเก็บมูลสัตว์ ตราสมาร์ทเตอร์",
   "th_name_short": "ถุงเก็บมูลสัตว์",
   "en_name": "Smarter brand Poop Bags",
@@ -11,30 +11,30 @@
   "publisher": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
   "size": "45 ใบ",
   "barcode": "8853474066360",
-  "type": 10,
-  "PETS SUPPLIES": {
+  "type": 7,
+  "pets_supplies": {
     "storage": ["เก็บให้พ้นมือเด็ก แสงแดด และเปลวไฟ"],
     "usage":["นำถุงเก็บมูลสัตว์ใส่ในกล่องเก็บ เพื่อความสะดวกในการพกพา", "ฉีกถุงตามรอยปรุสวมใส่ที่มือแล้วนำไปเก็บมูลสัตว์ที่ต้องการ"],
     "warning":["ห้ามใช้บรรจุหรือห่อหุ้มอาหาร"],
-    "allergy":"-"
+    "allergy": []
   },
   
   "sign": { 
     "rainforest_alliance_certified": false,
     "recycle": false,
-    "ISO 9001": false,
-    "Export Quality": false,
-    "Biomat": false,
-    "Environmental Friendly": false,
-    "No CFCs": false,
-    "BPA free": false,
-    "Thailand Trusted Quality Mark": false,
-    "Alcohol free" : false,
-    "Paraben free" : false,
-    "Fragrance free" : false,
-    "NON IRRITATION TESTED" : false,
-    "Biodegradable" : false,
-    "Pycnogenol" : false
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free" : false,
+    "paraben_free" : false,
+    "fragrance_free" : false,
+    "non_irritation_tested" : false,
+    "biodegradable" : false,
+    "pycnogenol" : false
 
   }
 }

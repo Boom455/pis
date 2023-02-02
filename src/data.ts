@@ -16,10 +16,9 @@ const product_type: { [key: number]: string } = {
     4: 'ELECTRONIC',
     5: 'BEAUTY AND PERSONAL CARE',
     6: 'HEALTH AND WELLNESS',
-    7: 'PETS FOOD',
+    7: 'PETS',
     8: 'SEASONING SAUCE',
     9: 'MOM AND BABY',
-    10: 'PETS SUPPLIES',
 }
 
 export default { product_list, product_type }
