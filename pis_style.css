@@ -1,0 +1,87 @@
+.h1 {
+  border: 3px outset rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);    
+  text-align: right;
+  height: 159.6px;
+  width: 890px;
+  margin-left: 200px;
+  margin-right: 200px;
+  float : center;
+}
+.h2 {
+  border: 3px outset rgb(0, 0, 0);
+  background-color: rgb(29, 45, 95);    
+  text-align: left;
+  width: 890px;
+  height: 320.6px;
+  margin: -22px 0px 0px 200px;
+  float : left;
+  color: rgb(255, 255, 255);
+  font-size: 2cm;
+  font-family: Mitr; /*----------------------*/
+
+}
+.h3 {
+  border: 3px outset rgb(0, 0, 0);
+  background-color: rgb(28, 18, 228);    
+  text-align: center;
+  float : center;
+  color: rgb(0, 0, 0);
+  font-size: 2.5cm;
+}
+
+.h4{
+  border: 0px outset rgb(139, 11, 11);
+  text-align: left;
+  width: 445px;
+  height: 320.6px;
+  margin: -22px 0px 0px -850px;
+  float : left;
+  color: rgb(255, 255, 255);
+  font-size: 2cm;
+}
+.h5{
+  border: 3px outset rgb(0, 0, 0);    
+  text-align: left;
+  float : left;
+  color: rgb(0, 0, 0);
+  font-size: 2.5cm;
+  margin: 5px 0px 0px -893px;
+}
+.h6{
+  border: 3px outset rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);    
+  text-align: left;
+  width: 890px;
+  height: 641.2px;
+  margin: 325px 0px 0px -894px;
+  float : left;
+  color: rgb(255, 255, 255);
+}
+.box_sr_qr{ 
+  width: 890px;
+  height: 300px;
+  margin: 450px 70px 50px -845px;
+  text-align: left;
+  float : left;
+  
+}
+.qr{
+  margin: 500px 0px 50px -905px;
+  text-align: left;
+  float : left;
+}
+.sr{
+  margin: 575px 0px 50px -505px;
+  text-align: left;
+  float : left;
+}
+.pis_logo {
+  margin: 0px 0px 0px -320px;
+  
+}
+.th_logo {
+  margin: 30px -80px 0px 0px;
+
+}
+/*top right bottom left*/
