@@ -1,0 +1,18 @@
+.btn-custom-lang {
+    border: solid 2px #555555;
+    border-radius: 10px;
+    box-shadow: 0 3px 0 #22222230;
+    background-color: #ffffff;
+}
+.btn-custom-lang:hover {
+    border: solid 2px #555555;
+    box-shadow: 0 3px 0 #22222230;
+    background-color: #767676;
+}
+#header {
+    background-color: rgb(29, 45, 95);
+    padding: 1em;
+}
+#video {
+    height:200px ;
+}
