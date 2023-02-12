@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Product Information System</title>
+    <title>ระบบแสดงข้อมูลผลิตภัณฑ์</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +22,7 @@
                 &nbsp;
             </div>
             <div>
-                <a class="btn btn-custom-lang" href="/en" role="button">
+                <a class="btn btn-custom-lang" href="/en/qr" role="button">
                     <img src="/img/thailand.png" width="24px"/>
                     <span>
                         TH
@@ -35,22 +35,16 @@
         <div class="d-flex flex-column">
             <div id="qrbody">
                 <div class="row">
-                    <div class="col-12" style="padding: 132.5px 0px 0px 100px;"> <!--top right bottom left-->
+                    <div class="col-12" style=" align-items: center;"> <!--top right bottom left-->
                         <img src="/img/qrcrop.png" width="300px" />
                     </div>
                 </div>
             </div>
             <div id="qrbottom">
                 <div class="row">
-                    <div class="col-6" style="background-color: rgb(29, 45, 95); color: #ffffff; height: 150px;  padding: 55px;">
-                        <a  href="/qr">
-                            คิวอาร์โค้ด<br />
-                        </a>
-                    </div>
-                    <div class="col-6" style="background-color: #ffffff; color: rgb(29, 45, 95);  height: 150px;  padding: 55px 60px 60px 85px;"> <!--top right bottom left-->
-                        <a  href="/search">
-                            ค้นหา<br />
-                        </a>
+                    <div class="btn-group" role="group">
+                        <a href="/qr" type="button" class="btn btn-primary" id="btnqr_qr">คิวอาร์โค้ด</a>
+                        <a href="/search" type="button" class="btn btn-primary" id="btnsr_qr">ค้นหา</a>
                     </div>
                 </div>
             </div>

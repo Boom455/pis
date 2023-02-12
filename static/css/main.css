@@ -1,35 +1,145 @@
+
 .btn-custom-lang {
     border: solid 2px #555555;
-    border-radius: 15px;
+    border-radius: 17px;
     box-shadow: 0 3px 0 #22222230;
     background-color: #ffffff;
+    font-family: "Mitr Light";
 }
-.btn-custom-lang1:hover {
+.btn-custom-lang:hover {
     border: solid 2px #555555;
     box-shadow: 0 3px 0 #22222230;
-    background-color: #767676;
+    background-color: #c7c7c7;
+    font-family: "Mitr Light";
+    
 }
 #header {
     background-color: rgb(29, 45, 95);
     padding: 1em;
     color: #ffffff;
+    font-family: "Mitr";
 }
 #video {
     height:200px ;
     background-color: yellow;
+    font-family: "Mitr";
 }
 #body {
     height: 400px ;
     background-color: #767676;
     border: 5px #111111;
+    font-family: "Mitr";
 }
 #qrbody {
     background-color: rgb(255, 255, 255);
     padding: 1em;
     color: #ffffff;
     height: 650px;
+    font-family: "Mitr";
 }
 #qrbottom {
     height: 250px ;
     border: 5px #111111;
+    font-family: "Mitr";
+}                                           /*top left bottom right*/
+.btn-group a {
+    border: 1px solid rgb(255, 211, 50);
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+    height: 70px;
+    font-size: 25px;
+    padding: 15px 0 0 0 ;
+    font-family: "Mitr";
+    width: 100%;
+}
+#btnsr_qr {
+    background-color: #ffffff;
+    color: black;
+    font-family: "Mitr";
+}
+#btnqr_qr {
+    background-color: rgb(29, 45, 95);
+    color: white;
+    font-family: "Mitr";
+}
+#animated input[type=text] {
+    width: 300px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.5s ease-out;
+    transition: width 0.5s ease-out;
+}
+
+#animated input[type=text]:focus {
+    width: 300px;
+}
+
+#animated i {
+  position: relative;
+  left: 33px;
+}
+.fa-search {
+    padding: 0 0 0 0;
+    margin: 0 0px 0 0;
+}
+#ritter_header {
+    background-color: #6AA84F;
+    padding: 1em;
+    margin: 0;
+}
+#ritter_header_small {
+    font-size: 22px;
+    color: #ffffff;
+
+}
+#ritter_header_small_small {
+    font-size: 14px;
+    color: #ffffff;
+
+}
+#ritter_header_text_picture {
+    border: solid 1px #000000;
+    margin-bottom: ;
+}
+#ritter_header2 {
+    font-size: 12px;
+    margin-top: 1em;
+}
+#ritter_header2_right_all {
+
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+#tarang {
+    margin-left: 2em;
+    font-size: 12px;
+}
+#bodyrt1 {
+    border: solid 1px #000000;
+    padding-top: 10px;
+}
+#bodyrt1_text {
+    font-size: 12px;
+    margin-left: 20px;
+}
+#bodyrt2 {
+    border: solid 1px #000000;
+    padding-top: 10px;
+}
+#bodyrt2_text {
+    font-size: 12px;
+    margin-left: 20px;
+}
+#bodyrt3 {
+    border: solid 1px #000000;
+    padding-top: 10px;
+}
+#bodyrt3_text {
+    font-size: 12px;
+    margin-left: 20px;
 }
