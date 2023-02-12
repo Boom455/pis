@@ -102,8 +102,18 @@
     color: #ffffff;
 
 }
-#ritter_header_text_picture {
-
+#panasonic_header_text_picture {
+    margin: auto auto;
+}
+#panasonic_header {
+    background-color: #FF0000;
+    padding: 1em;
+    margin: 0;
+}
+#baby_bright_header {
+    background-color: #FF00FF;
+    padding: 1em;
+    margin: 0;
 }
 #ritter_header2 {
     font-size: 12px;
@@ -140,6 +150,16 @@
     font-size: 12px;
     margin-left: 20px;
 }
+#bodypana2 {
+    border-top: solid 1px #000000;
+    border-bottom: solid 0px #000000;
+    padding-top: 10px;
+}
+#body_baby_bright {
+    border-top: solid 1px #000000;
+    border-bottom: solid 1px #000000;
+    padding-top: 10px;
+}
 #bodyrt3 {
     border-top: solid 1px #000000;
     border-bottom: solid 1px #000000;
@@ -152,6 +172,11 @@
 #bodyrt4 {
     border-top: solid 1px #000000;
     border-bottom: solid 1.75px #000000;
+    padding-top: 10px;
+}
+#bodybaby3 {
+    border-top: solid 1px #000000;
+    border-bottom: solid 1px #000000;
     padding-top: 10px;
 }
 #bodyrt4_text {
@@ -176,4 +201,21 @@
     width: 20 px;
     border: solid 0px #000000;
     padding-left: 10px;
+}
+#panasonic_bottom {
+    margin: auto auto;
+    margin-top: 20px
+}
+#panasonic_header_text_picture {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#baby_bottom {
+    margin: auto auto;
+    margin-top: 20px
+}
+#baby_bright_bottom {
+    margin: auto auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
