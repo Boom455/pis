@@ -103,8 +103,7 @@
 
 }
 #ritter_header_text_picture {
-    border: solid 1px #000000;
-    margin-bottom: ;
+
 }
 #ritter_header2 {
     font-size: 12px;
@@ -119,8 +118,13 @@
     margin-left: 2em;
     font-size: 12px;
 }
+#tarangen {
+    margin-left: 2em;
+    font-size: 11px;
+}
 #bodyrt1 {
-    border: solid 1px #000000;
+    border-top: solid 1.75px #000000;
+    border-bottom: solid 1px #000000;
     padding-top: 10px;
 }
 #bodyrt1_text {
@@ -128,7 +132,8 @@
     margin-left: 20px;
 }
 #bodyrt2 {
-    border: solid 1px #000000;
+    border-top: solid 1px #000000;
+    border-bottom: solid 1px #000000;
     padding-top: 10px;
 }
 #bodyrt2_text {
@@ -136,10 +141,39 @@
     margin-left: 20px;
 }
 #bodyrt3 {
-    border: solid 1px #000000;
+    border-top: solid 1px #000000;
+    border-bottom: solid 1px #000000;
     padding-top: 10px;
 }
 #bodyrt3_text {
     font-size: 12px;
     margin-left: 20px;
+}
+#bodyrt4 {
+    border-top: solid 1px #000000;
+    border-bottom: solid 1.75px #000000;
+    padding-top: 10px;
+}
+#bodyrt4_text {
+    font-size: 12px;
+    margin-left: 20px;
+}
+#red_box {
+    height: 20 px;
+    width: 20 px;
+    border: solid 1px #000000;
+    padding-left: 10px;
+    margin: 125px auto 125px auto;
+}
+#qrcrop_index {
+    height: 20 px;
+    width: 20 px;
+    border: solid 0px #000000;
+    padding-left: 10px;
+}
+#sren_index {
+    height: 20 px;
+    width: 20 px;
+    border: solid 0px #000000;
+    padding-left: 10px;
 }
