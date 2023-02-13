@@ -13,16 +13,20 @@
   "type": 4,
   "electronic": {
     "fda_code": "96 เล่ม 2 2560",
-    "storage": [
-      "ควรนำถ่านออกเมื่อหยุดใช้เป็นเวลานาน"
-    ],
-    "usage": [
-      "ใช้กับอุปกรณ์เครื่องใช้อิเล็กทรอนิกส์"
-    ],
-    "warning": [
-      "ห้ามประจุไฟใหม่ ใส่ถ่านสลับขั้ว ใส่ถ่านต่างชนิด หรือเผาไฟ เพราะอาจทำให้เกิดการระเบิดหรือรั่วซึมได้",
+    
+    "warning_en": [
+      "ใช้กับอุปกรณ์เครื่องใช้อิเล็กทรอนิกส์",
+      "นำถ่านออกเมื่อหยุดใช้เป็นเวลานาน",
+      "ห้ามประจุไฟใหม่ ใส่ถ่านสลับขั้ว ใส่ถ่านต่างชนิด หรือเผาไฟ",
       "ห้ามแกะถ่าน",
-      "ทิ้งถ่านที่ใช้แล้วทันที ตามข้อกำหนดของท้องถิ่น"
+      "ทิ้งถ่านที่ใช้แล้วทันที"
+    ],
+    "warning_th": [
+      "Use with electronic equipment.",
+      "Remove batteries when no longer in use.",
+      "Do not recharge, install an alternating battery, install a different type of battery or burn.",
+      "Do not remove the battery.",
+      "Dispose of used batteries immediately."
     ]
   },
   "sign": {

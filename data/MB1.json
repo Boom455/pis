@@ -8,32 +8,110 @@
   "en_brand": "Enfalac",
   "manufacture": "บริษัท มี้ด จอห์นสัน นิวทริชัน (ประเทศไทย) จำกัด",
   "publisher": "บริษัท มี้ด จอห์นสัน นิวทริชัน (ประเทศไทย) จำกัด",
-  "size": "550 กรัม",
+  "size_en": "550 g",
+  "size_th": "550 กรัม",
   "barcode": "8850024109294",
   "type": 9,
   "mom_and_baby": {
     "fda_code": "2010344450015",
     "ingredient": [
       {
-        "name": "dha",
-        "percent_serving_size": -1,
+        "name_en": "Lactose",
+        "name_th": "แลคโตส",
+        "percent_serving_size": 42.18,
         "vol": -1
       },
       {
-        "name": "mfgm",
-        "percent_serving_size": -1,
+        "name_en": "Skim milk",
+        "name_th": "นมผงขาดมันเนย",
+        "percent_serving_size": 12.68,
         "vol": -1
       },
       {
-        "name": "pdx",
-        "percent_serving_size": -1,
+        "name_en": "Palm olein",
+        "name_th": "น้ำมันปาล์มโอเลอีน ",
+        "percent_serving_size": 11.77,
         "vol": -1
       },
       {
-        "name": "gos",
+        "name_en": "Coconut oil",
+        "name_th": "น้ำมันมะพร้าว",
+        "percent_serving_size": 5.23,
+        "vol": -1
+      },
+      {
+        "name_en": "Soybean oil",
+        "name_th": "น้ำมันถั่วเหลือง",
+        "percent_serving_size": 5.23,
+        "vol": -1
+      },
+      {
+        "name_en": "MFGM Pro",
+        "name_th": "เวย์โปรตีนเข้มข้นชนิดที่มีฟอสโฟลิปิดสูง",
+        "percent_serving_size": 4.43,
+        "vol": -1
+      },
+      {
+        "name_en": "Galacto-oligosaccharides",
+        "name_th": "กาแลคโตโอลิโกแซคคาไรด์",
+        "percent_serving_size": 4.09,
+        "vol": -1
+      },
+      {
+        "name_en": "Sunflower oil",
+        "name_th": "น้ำมันดอกทานตะวัน",
+        "percent_serving_size": 3.92,
+        "vol": -1
+      },
+      {
+        "name_en": "Whey protein concentrate",
+        "name_th": "เวย์โปรตีนเข้มข้น",
+        "percent_serving_size": 2.89,
+        "vol": -1
+      },
+      {
+        "name_en": "Vitamins and minerals",
+        "name_th": "วิตามินและเกลือแร่",
+        "percent_serving_size": 2.6,
+        "vol": -1
+      },
+      {
+        "name_en": "polydextrose",
+        "name_th": "โพลีเด็กซ์โตรส",
+        "percent_serving_size": 1.56,
+        "vol": -1
+      },
+      {
+        "name_en": "DHA and ARA essential oils",
+        "name_th": "น้ำมันสกัดที่ให้ดีเอชเอและเออาร์เอ ",
+        "percent_serving_size": 0.7,
+        "vol": -1
+      },
+      {
+        "name_en": "choline chloride",
+        "name_th": "โคลีนคลอไรด์",
+        "percent_serving_size": 0.17,
+        "vol": -1
+      },
+      {
+        "name_en": "taurine",
+        "name_th": "ทอรีน",
+        "percent_serving_size": 0.05,
+        "vol": -1
+      },
+      {
+        "name_en": "L-Carnitine",
+        "name_th": "แอล-คาร์นิทีน",
+        "percent_serving_size": 0.01,
+        "vol": -1
+      },
+      {
+        "name_en": "food additives",
+        "name_th": "วัตถุเจือปนอาหาร",
         "percent_serving_size": -1,
         "vol": -1
       }
+      
     ],
     "nutrition": {
       "energy_serving_size": "510 กิโลแคลอรี",
@@ -256,22 +334,41 @@
       ]
     },
     "nutritional_value": [],
-    "storage": [
+    "storage_en": [
+      "Should fold the mouth of the aluminum bag to be completely closed after use",
+      "Store in a clean container with a tightly closed lid.  Store the product at normal room temperature and store it in a dry place.  Do not freeze or store in very hot places.",
+      "The product should be used within 1 month after first use.  to ensure quality"
+    ],
+    "storage_th": [
       "ควรพับปากถุงอลูมิเนียมให้ปิดสนิททุกครั้ง หลังใช้งาน",
       "เก็บในภาชนะสะอาดที่มีฝาปิดมิดชิด เก็บผลิตภัณฑ์ที่อุณหภูมิห้องปกติและเก็บไว้ในที่แห้ง อย่านำไปแช่แข็งหรือเก็บในที่ที่ร้อนจัด",
       "ควรใช้ผลิตภัณฑ์ให้หมดถุงภายในระยะเวลา 1 เดือน หลังจากเปิดใช้ครั้งแรก เพื่อความมั่นใจในคุณภาพ"
     ],
-    "usage": [
+  "usage_en": [
+    "Powder-based infant products should not be used to feed premature babies.  or infants who may have low immunity  unless advised by a physician"
+    ],
+    
+    "usage_th": [
       "ผลิตภัณฑ์สำหรับทารกชนิดผงไม่ควรใช้เลี้ยงทารกที่เกิดก่อนกำหนด หรือทารกที่อาจมีภาวะภูมิต้านทานต่ำ เว้นแต่จะได้รับการแนะนำจากแพทย์"
     ],
-    "warning": [
+    "warning_en": [
+      "Do not heat up the product by using a microwave oven as products can get extremely hot until their baby burns badly.",
+      " Mixed products are easily spoiled.  Therefore, the baby must be raised immediately.  Or cover and store in the refrigerator at 2-4 °C, not longer than 24 hours before it can still be used to feed the baby.",
+      "Do not use the mixed product for more than 2 hours without refrigeration to feed the baby",
+      "Do not store the blended product in the freezer",
+      "If the baby does not finish the bottle within 1 hour of starting the bottle of product,  The remaining product in the bottle must be discarded."
+  ],
+    "warning_th": [
       "อย่าอุ่นผลิตภัณฑ์ด้วยการใช้เตาไมโครเวฟเพราะผลิตภัณฑ์อาจร้อนจัดจนลวกทารกอย่างรุนแรงได้",
       "ผลิตภัณฑ์ที่ผสมแล้วจะเสียได้ง่าย จึงต้องใช้เลี้ยงทารกทันที หรือให้ปิดฝาแล้วเก็บในตู้เย็นที่อุณหภูมิ 2-4 องศาเซลเซียส โดยจะต้องไม่เก็บไว้นานเกินกว่า 24 ชั่วโมง จึงจะยังใช้เลี้ยงทารกได้",
       "อย่านำผลิตภัณฑ์ที่ผสมทิ้งไว้นานเกิน 2 ชั่วโมง โดยไม่ได้เก็บในตู้เย็นมาใช้เลี้ยงทารก",
       "อย่าเก็บผลิตภํณฑ์ที่ผสมแล้วไว้ในช่องแช่แข็ง",
       "หากทารกกินผลิตภัณฑ์ในขวดไม่หมดภายใน 1 ชั่วโมง นับจากเริ่มกินผลิตภัณฑ์ขวดนั้นๆ ต้องเทผลิตภัณฑ์ที่เหลือในขวดนั้นทิ้ง"
     ],
-    "allergy": [
+    "allergy_en": [
+      "soybean"
+    ],
+    "allergy_th": [
       "ถั่วเหลือง"
     ]
   },

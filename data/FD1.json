@@ -9,29 +9,34 @@
   "manufacture": "อัลเฟรด ริตเทอร์ จีเอ็มบีเอช แอนด์ โค เคจี เยอรมนี",
   "importer": "บริษัท ซีโน่-แปซิฟิค เทรดดิ้ง (ไทยแลนด์) จำกัด",
   "publisher": "บริษัท ซีโน่-แปซิฟิค เทรดดิ้ง (ไทยแลนด์) จำกัด",
-  "size": "100 กรัม",
+  "size_en": "100 g",
+  "size_th": "100 กรัม",
   "barcode": "4000417018007",
   "type": 1,
   "food_and_drink": {
     "fda_code": "1031152310704",
     "ingredient": [
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 47,
         "vol": 6
       },
       {
-        "name": "cocoa",
+        "name_en": "cocoa",
+        "name_th": "ผลิตภัณฑ์จากโกโก้ ",
         "percent_serving_size": 29,
         "vol": 2
       },
       {
-        "name": "milk powder",
+        "name_en": "milk powder",
+        "name_th": "นมผง",
         "percent_serving_size": 20,
         "vol": 1
       },
       {
-        "name": "emulsifier",
+        "name_en": "emulsifier",
+        "name_th":"อิมัลซิไฟเออร์",
         "percent_serving_size": -1,
         "vol": -1
       }
@@ -77,39 +82,58 @@
     },
     "nutritional_value": [
       {
-        "name": "energy",
+        "name_en": "energy",
+        "name_th": "พลังงาน",
         "percent_serving_size": 28,
         "kcal": 560
       },
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 86,
         "vol": 56
       },
       {
-        "name": "fat",
+        "name_en": "total fat",
+        "name_th": "ไขมัน",
         "percent_serving_size": 49,
         "vol": 32
       },
       {
-        "name": "sodium",
+        "name_en": "sodium",
+        "name_th": "โซเดียม",
+
         "percent_serving_size": 3,
         "vol": 0.06
       }
     ],
-    "storage": [
+    "storage_en": [
+      "Store in a cool, dry place."
+    ],
+    "storage_th": [
       "ควรเก็บในที่เย็นและแห้ง"
     ],
-    "usage": [
+    "usage_en": [
+    "Eat less and exercise for health"
+    ],
+    "usage_th": [
       "บริโภคแต่น้อยและออกกำลังกายเพื่อสุขภาพ"
     ],
-    "allergy": [
+    "allergy_en": [
       "นมผง",
       "เฮเซลนัทบด",
       "เลซิทินจากถั่วเหลือง",
       "ถั่วลิสง",
       "กลูเตน",
       "ไข่"
+    ],
+    "allergy_th": [
+      "powdered milk",
+      "hazelnuts",
+      "soya Lecithins",
+      "peanuts",
+      "gluten",
+      "egg"
     ]
   },
   "sign": {

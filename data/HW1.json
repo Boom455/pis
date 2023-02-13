@@ -8,66 +8,88 @@
   "en_brand": "Verraskin",
   "manufacture": "บริษัท อินโนวาเฮลท์ จำกัด",
   "publisher": "บริษัท เมดโนวา (ไทยแลนด์) จำกัด",
-  "size": "15 แคปซูล",
+  "size_en":"9 g (600 mg X 15 cap.)",
+  "size_th": "9 กรัม (600 มก. X 15 แคปซูล)",
   "barcode": "8859469200054",
   "type": 6,
   "health_and_wellness": {
     "fda_code": "2010356350072",
     "ingredient": [
       {
-        "name": "licorice extract",
+        "name_en": "licorice extract",
+        "name_th": "สารสกัดชะเอมเทศ ",
         "percent_serving_size": -1,
         "vol": 0.15
       },
       {
-        "name": "l-glutathione",
+        "name_en": "l-glutathione",
+        "name_th":"แอล-กลูต้าไธโอน ",
         "percent_serving_size": -1,
         "vol": 0.125
       },
       {
-        "name": "tomato extract",
+        "name_en": "tomato extract",
+        "name_th": "สารสกัดมะเขือเทศ",
         "percent_serving_size": -1,
         "vol": 0.085
       },
       {
-        "name": "vitamin c",
+        "name_en": "vitamin c",
+        "name_th": "วิตามินซี",
         "percent_serving_size": -1,
         "vol": 0.03
       },
       {
-        "name": "coenzyme q10",
+        "name_en": "coenzyme q10",
+        "name_th": "โคเอนไซม์คิวเท็น",
         "percent_serving_size": -1,
         "vol": 0.03
       },
       {
-        "name": "french maritime pine bark extract",
+        "name_en": "french maritime pine bark extract",
+        "name_th": "สารสกัดเปลือกสนฝรั่งเศส ",
         "percent_serving_size": -1,
         "vol": 0.025
       },
       {
-        "name": "alpha-lipoic acid",
+        "name_en": "alpha-lipoic acid",
+        "name_th": "แอลฟา-ไลโปอิกแอซิด ",
         "percent_serving_size": -1,
         "vol": 0.025
       },
       {
-        "name": "vitamin e",
+        "name_en": "vitamin e",
+        "name_th":"วิตามินอี ",
         "percent_serving_size": -1,
         "vol": 0.02
       },
       {
-        "name": "zinc amino acid chelate",
+        "name_en": "zinc amino acid chelate",
+        "name_th": "ซิงค์อะมิโนแอซิดคีเลต",
         "percent_serving_size": -1,
         "vol": 0.015
       }
     ],
-    "storage": [
+    "storage_en": [
+      "Should be stored in a dry and cool place.",
+      "Keep out of reach of children."
+    ],
+    "storage_th": [
       "เก็บไว้ในที่แห้งและเย็น",
       "ควรเก็บให้พ้นมือเด็ก"
     ],
-    "usage": [
+    "usage_en": [
+      "Take 2 tablet before meals"
+    ],
+    "usage_th": [
       "รับประทานวันละ 2 แคปซูล ก่อนอาหาร"
     ],
-    "warning": [
+  "warning_en": [
+    "Children, pregnancy and lactation should not eat.",
+    "No effect for cure disease.",
+    "Has moisture absorber and regulator."
+  ],
+    "warning_th": [
       "เด็ก สตรีมีครรภ์และสตรีให้นมบุตร ไม่ควรรับประทาน",
       "ไม่มีผลในการป้องกันหรือรักษาโรค",
       "มีซองวัตถุกันชื้น"

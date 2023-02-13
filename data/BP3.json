@@ -9,91 +9,108 @@
   "manufacture": "คาร์บาร์ท อินเตอร์เนชั่นแนล คอมปะนีลิมิเต็ด จีน",
   "importer": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
   "publisher": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
-  "size": "4.5 กรัม",
+  "size_en": "4.5 g",
+  "size_th": "4.5 กรัม",
   "barcode": "8858842093627",
   "type": 5,
   "beauty_and_personal_care": {
     "fda_code": "1026400022449",
     "ingredient": [
       {
-        "name": "mica",
+        "name_en": "mica",
+        "name_th": "ไมกา",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "talc",
+        "name_en": "talc",
+        "name_th": "ทัลก์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "magnesium stearate",
+        "name_en": "magnesium stearate",
+        "name_th": "เกลือแมกนีเซียม",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ethylhexyl palmitate",
+        "name_en": "ethylhexyl palmitate",
+        "name_th": "เอทิล เฮกซิล ปาล์มิเตท",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "paraffinum liquidum",
+        "name_en": "paraffinum liquidum",
+        "name_th": "พาราฟินเหลว",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "dimethicone",
+        "name_en": "dimethicone",
+        "name_th": "ไดเมธิโคน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "polyethylene",
+        "name_en": "polyethylene",
+        "name_th": "พอลิเอทิลีน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "polybutene",
+        "name_en": "polybutene",
+        "name_th": "โพลีบิวทีน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "methylparaben",
+        "name_en": "methylparaben",
+        "name_th": "เมทิลพาราเบน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "propylparaben",
+        "name_en": "propylparaben",
+        "name_th": "โพรพิลพาราเบน",
         "percent_serving_size": -1,
         "vol": 1
       },
       {
-        "name": "tocopheryl acetate",
+        "name_en": "tocopheryl acetate",
+        "name_th": "โทโคเฟอริล อซิเตท",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ci 15850",
+        "name_en": "ci 15850",
+        "name_th": "ผงอินทรีย์ สีแดงสว่าง",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ci 77491",
+        "name_en": "ci 77491",
+        "name_th": "ผงสีกลุ่มไอเอิร์นออกไซด์ สีแดง",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ci 77499",
+        "name_en": "ci 77499",
+        "name_th": "ผงสีกลุ่มไอเอิร์นออกไซด์ สีดำ",
         "percent_serving_size": -1,
         "vol": -1
       }
-      
     ],
-    "storage": [
-      "ปิดฝาให้สนิททุกครั้งหลังใช้งาน"
+    "usage_en": [
+      "Open the product lid, use the appropriate amount of touch brush. Then brush the cheeks or spread over the eyelids instead of using eyes shadowo, always close the lid after use."
     ],
-    "usage": [
-      "ใช้แปรงแตะมูด แมทท์ บลัชเชอร์ ในปริมาณที่พอเหมาะ นำมาปัดบริเวณแก้ม หรือทาบนเปลือกตาแทนการใช้อายแชโดว์"
+    "usage_th": [
+      "เปิดฝาผลิตภัณฑ์ ใช้แปรงแตะในปริมาณที่พอเหมาะ จากนั้นนำมาปัดบริเวณพวงแก้มหรือทาบนเปลือกตาแทนการใช้ อายแชโดว์ ปิดฝาผลิตภัณฑ์ให้สนิททุกครั้งหลังการใช้"
     ],
-    "warning": [
+    "warning_en": [
+      "If used, there is any abnormality occurs, must stop using and consult a doctor or pharmacist."
+    ],
+    "warning_th": [
       "หากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้นต้องหยุดใช้และปรึกษาแพทย์หรือเภสัชกร"
     ]
   },
