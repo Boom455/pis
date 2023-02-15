@@ -6,41 +6,67 @@
   "en_name_short": "Detergent Gel Ball Passion Clean",
   "th_brand": "ดาวน์นี่",
   "en_brand": "Downy",
-  "manufacture": "บริษัท พี แอนด์ จี เค.เค ทากาซากิ แพลนท์ ญี่ปุ่น",
-  "importer": "บริษัท พรอคเตอร์ แอนด์ แกมเบิล เทรดดิ้ง (ประเทศไทย) จำกัด",
-  "publisher": "บริษัท พรอคเตอร์ แอนด์ แกมเบิล เทรดดิ้ง (ประเทศไทย) จำกัด)",
-  "size": "328 กรัม",
+  "manufacture_th": "บริษัท พี แอนด์ จี เค.เค ทากาซากิ แพลนท์ ญี่ปุ่น",
+  "manufacture_en": "P&G K.K. Takasaki Plant Co., Japan",
+  "importer_th": "บริษัท พรอคเตอร์ แอนด์ แกมเบิล เทรดดิ้ง (ประเทศไทย) จำกัด",
+  "importer_en": "Proctor & Gambel Trading (Thailand) Co., Ltd.",
+  "publisher_th": "บริษัท พรอคเตอร์ แอนด์ แกมเบิล เทรดดิ้ง (ประเทศไทย) จำกัด)",
+  "publisher_en": "Proctor & Gambel Trading (Thailand) Co., Ltd.",
+  "size_th": "328 กรัม",
+  "size_en": "328 g",
   "barcode": "4902430825450",
   "type": 3,
   "household_essentials": {
     "fda_code": "ฉช 1/2565",
     "ingredient": [
       {
-        "name": "ethoxylated alcohol sulfate",
+        "name_en": "ethoxylated alcohol sulfate",
+        "name_th": "เกลือโมโนเอทาโนลามีนของเอทอกซีเลเต็ดแอลกอฮอล์ซัลเฟต",
         "percent_serving_size": 19.3,
         "vol": 3
       },
       {
-        "name": "linear alkylbenzene sulfonate",
+        "name_en": "linear alkylbenzene sulfonate",
+        "name_th": "เกลือโมโนเอทาโนลามีนของลิเนียร์อัลคิลเบนซีนซัลโฟเนต",
         "percent_serving_size": 19.3,
         "vol": 3
       },
       {
-        "name": "ethoxylated alcohol",
+        "name_en": "ethoxylated alcohol",
+        "name_th": "เอทอกซีเลเต็ดแอลกอฮอล์",
         "percent_serving_size": 7.5,
         "vol": 2
       }
     ],
-    "storage": [
-      "เก็บในที่มิดชิด ห่างจากเด็ก อาหาร และสัตว์เลี้ยง",
+    "storage_en": [
+        "Keep the product in its original box away from children, food, and pets.",
+        "Close lid tightly after use",
+        "Store in a cool and dry place away from the sunlight."
+    ],
+    "storage_th": [
+        "เก็บในที่มิดชิด ห่างจากเด็ก อาหาร และสัตว์เลี้ยง",
+        "ปิดฝาให้แน่นทุกครั้งหลังใช้งาน",
+        "เก็บผลิตภัณฑ์ในที่เย็นและแห้ง ให้ห่างจากแสงแดด"
+    ],
+    "usage_en": [
+      "1 piece of product can wash 15-28 pieces of laundry.",
+      "Can be used for both top-loading and front-loading washing machines. Cannot be used for hand washing."
+    ],
+    "usage_th": [
+      "ผลิตภัณฑ์ 1 ชิ้น สามารถซักผ้าได้ 15-28 ชิ้น",
       "ปิดฝาให้แน่นทุกครั้งหลังใช้งาน",
       "เก็บผลิตภัณฑ์ในที่เย็นและแห้ง ให้ห่างจากแสงแดด"
     ],
-    "usage": [
-      "ผลิตภัณฑ์ 1 ชิ้น สามารถซักผ้าได้ 15-28 ชิ้น",
-      "สามารถใช้ได้ทั้งเครื่องซักผ้าฝนบนและฝาหน้า ไม่สามารถใช้กับการซักมือ"
+    "warning_en": [
+      "Do not eat.",
+      "Be careful not to get it in your eyes.",
+      "Do not dispose of used products or containers into rivers, ditches, canals, public water sources.",
+      "If the product is torn and liquid leaks from the drum Immediately wipe off with water.",
+      "Do not use for hand washing.",
+      "Use dry hands to hold the pieces of the product.",
+      "Do not puncture, break or cut the product."
     ],
-    "warning": [
+    "warning_th": [
       "ห้ามรับประทาน",
       "ระวังอย่าให้เข้าตา",
       "ห้ามทิ้งผลิตภัณฑ์หรือภาชนะบรรจุที่ใช้หมดแล้วลงในแม่น้ำ คู คลอง แหล่งน้ำสาธารณะ",

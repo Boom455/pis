@@ -1,14 +1,14 @@
 {
-  "product": "P2",
+  "product": "P4",
   "th_name": "สุกินะผ้าอ้อมสุนัขไซส์ XL ",
   "th_name_short": "ผ้าอ้อมสุนัข",
   "en_name": "Sukina Petto Diaper Size XL",
   "en_name_short": "Petto Diaper",
   "th_brand": "สุกินะผ้าอ้อม",
   "en_brand": "Sukina Pet",
-  "manufacture": "ประเทศจีน",
-  "publisher": "บริษัท เยื่ยมพาณิชย์ อินเตอร์เนชั่นแนล",
-  "size": "8 ชิ้น",
+  "manufacture_th": "ประเทศจีน",
+  "publisher_th": "บริษัท เยื่ยมพาณิชย์ อินเตอร์เนชั่นแนล",
+  "size_th": "8 ชิ้น",
   "barcode": "8857200077491",
   "type": 7,
   "pets_supplies": {

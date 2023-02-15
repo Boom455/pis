@@ -6,9 +6,9 @@
   "en_name_short": "Disinfection Solution",
   "th_brand": "ฟาร์เซ็นท์",
   "en_brand": "Farcent",
-  "manufacture": "บริษัท นวศรี แมนูแฟคเจอริ่ง จำกัด",
-  "publisher": "บริษัท ฟาร์เซ็นท์ เอ็นเตอร์ไพรส์ (ประเทศไทย) จำกัด",
-  "size": "1000 มิลลิลิตร",
+  "manufacture_th": "บริษัท นวศรี แมนูแฟคเจอริ่ง จำกัด",
+  "publisher_th": "บริษัท ฟาร์เซ็นท์ เอ็นเตอร์ไพรส์ (ประเทศไทย) จำกัด",
+  "size_th": "1000 มิลลิลิตร",
   "barcode": "4710731050101",
   "type": 3,
   "household_essentials": {
