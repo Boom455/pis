@@ -6,22 +6,25 @@
   "en_name_short": "Panasonic Alkaline",
   "th_brand": "พานาโซนิค",
   "en_brand": "Panasonic",
-  "manufacture": "บริษัท พานาโซนิค เอเนอร์ (ประเทศไทย) จำกัด",
-  "publisher": "บริษัท พานาโซนิค เอเนอร์ (ประเทศไทย) จำกัด",
-  "size": "2 ก้อน",
+  "manufacture_th": "บริษัท พานาโซนิค เอเนอร์ (ประเทศไทย) จำกัด",
+  "manufacture_en": "Panasonic Energy (Thailand) Co., Ltd.",
+  "publisher_th": "บริษัท พานาโซนิค เอเนอร์ (ประเทศไทย) จำกัด",
+  "publisher_en": "Panasonic Energy (Thailand) Co., Ltd.",
+  "size_th": "2 ก้อน",
+  "size_en": "2 lumps",
   "barcode": "4984824089198",
   "type": 4,
   "electronic": {
     "fda_code": "96 เล่ม 2 2560",
     
-    "warning_en": [
+    "warning_th": [
       "ใช้กับอุปกรณ์เครื่องใช้อิเล็กทรอนิกส์",
       "นำถ่านออกเมื่อหยุดใช้เป็นเวลานาน",
       "ห้ามประจุไฟใหม่ ใส่ถ่านสลับขั้ว ใส่ถ่านต่างชนิด หรือเผาไฟ",
       "ห้ามแกะถ่าน",
       "ทิ้งถ่านที่ใช้แล้วทันที"
     ],
-    "warning_th": [
+    "warning_en": [
       "Use with electronic equipment.",
       "Remove batteries when no longer in use.",
       "Do not recharge, install an alternating battery, install a different type of battery or burn.",

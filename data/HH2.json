@@ -1,44 +1,47 @@
-
- {
-      "product": "HH2",
-      "th_name": "สมาร์ทเตอร์ช้อนส้อมย่อยสลายได้ตามธรรมชาติ",
-      "th_name_short": "อุปกรณ์สำหรับรับประทานอาหาร ",
-      "en_name": "Smarter Bio Plastic Cutlery",
-      "en_name_short": "Bio Plastic Cutlery",
-      "th_brand": "ตราสมาร์ทเตอร์",
-      "en_brand": "smart-R",
-      "manufacture": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
-      "publisher": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
-      "size": "12 คู่",
-      "barcode": "8853474049479",
-      "type": 3,
-      "household_essentials": {
-        "storage":[],
-        "usage":["ใช้สำหรับรับประทานอาหาร"],
-        "warning":["ห้ามเก็บบรรจุภัณฑ์ไว้ใกล้ความร้อนและเปลวไฟ", "ควรใช้ครั้งเดียวแล้วทิ้ง", "ปลอดภัยใช้กับอาหาร", "ใช้ได้ที่อุณหภูมิ 0 ถึง 70 องศาเซลเซียส"]
-      
-      
-      },
-      "sign": {
-        "rainforest_alliance_certified": false,
-        "recycle": false,
-        "iso_9001": false,
-        "export_quality": false,
-        "biomat": true,
-        "environmental_friendly": true,
-        "no_cf_cs": false,
-        "bpa_free": false,
-        "thailand_trusted_quality_mark": false,
-        "alcohol_free" : false,
-        "paraben_free" : false,
-        "fragrance_free" : false,
-        "non_irritation_tested" : false,
-        "biodegradable" : false,
-        "pycnogenol" : false
-
-  
-      }
- }
-  
-   
-    
+{
+  "product": "HH2",
+  "th_name": "ชุบบริค อุปกรณ์ขจัดคราบ",
+  "th_name_short": "อุปกรณ์ขจัดคราบ ",
+  "en_name": "Chubbric stain remover", 
+  "en_name_short": "Stain remover",
+  "th_brand": "ชุบบริค",
+  "en_brand": "Chubbric",
+  "manufacture_th": "",
+  "publisher_th": "",
+  "size_th": "",
+  "barcode": "",
+  "type": 0,
+  "household_essentials": {
+    "storage_en": [],
+    "storage_th": [],
+    "usage_en": [
+      "For removing stain"
+    ],
+    "usage_th": [
+      "ใช้สำหรับขจัดคราบ"
+    ],
+    "warning": [
+      "ห้ามเก็บบรรจุภัณฑ์ไว้ใกล้ความร้อนและเปลวไฟ",
+      "ควรใช้ครั้งเดียวแล้วทิ้ง",
+      "ปลอดภัยใช้กับอาหาร",
+      "ใช้ได้ที่อุณหภูมิ 0 ถึง 70 องศาเซลเซียส"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": true,
+    "environmental_friendly": true,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

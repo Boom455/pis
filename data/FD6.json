@@ -1,14 +1,14 @@
 {
   "product": "FD6",
-  "th_name": "ไรซ์ ซุเปอร์ เคอร์เนล บาสมาติ คุณค่า เก็บรักษา ",
+  "th_name": "ไรซ์ ซุเปอร์ เคอร์เนล บาสมาติ ",
   "th_name_short": "ข้าวบาสมาติ",
   "en_name": "Rice Super Kernel Basmati Anmol Brand",
   "en_name_short": "Basmati rice",
   "th_brand": "ตราอันมล",
   "en_brand": "Anmol",
-  "manufacture": "บริษัท พรอสเพอร์ เอ็นเตอร์ไพรส์เซส จำกัด",
-  "publisher": "บริษัท พรอสเพอร์ เอ็นเตอร์ไพรส์เซส จำกัด",
-  "size": "1000 กรัม",
+  "manufacture_th": "บริษัท พรอสเพอร์ เอ็นเตอร์ไพรส์เซส จำกัด",
+  "publisher_th": "บริษัท พรอสเพอร์ เอ็นเตอร์ไพรส์เซส จำกัด",
+  "size_th": "1000 กรัม",
   "barcode": "9431267008798",
   "type": 1,
   "food_and_drink": {
