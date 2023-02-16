@@ -7,50 +7,61 @@
   "th_brand": "ตราเซ็ป อโลเวร่า ดริ้งค์",
   "en_brand": "Sappe Aloe Vera Drink Brand",
   "manufacture_th": "บริษัท เซ็ปเป้ จำกัด (มหาชน)",
+  "manufacture_en": "Sappa Public Company Limited",
   "publisher_th": "บริษัท เซ็ปเป้ จำกัด (มหาชน)",
+  "publisher_en": "Sappa Public Company Limited",
   "size_th": "365 มิลลิลิตร",
+  "size_en": "365 ml",
   "barcode": "8850389109076",
   "type": 1,
   "food_and_drink": {
     "fda_code": "1320255520356",
     "ingredient": [
       {
-        "name": "white grape juice",
+        "name_en": "White Grape Juice",
+        "name_th": "น้ำองุ่นขาวเข้มข้นอัดก๊าซ",
         "percent_serving_size": 10,
         "vol": 5
       },
       {
-        "name": "aloe vera cube",
+        "name_en": "Aloe Vera Cube",
+        "name_th": "ว่านหางจระเข้",
         "percent_serving_size": 10,
         "vol": 5
       },
       {
-        "name": "sugar",
+        "name_en": "Sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 3.6,
         "vol": 3
       },
       {
-        "name": "fructose",
+        "name_en": "Fructose",
+        "name_th": "ฟรักโทส",
         "percent_serving_size": 0.4,
         "vol": 2
       },
       {
-        "name": "food additives",
+        "name_en": "Food Additives",
+        "name_th": "วัตถุเจือปนอาหาร",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "preservative",
+        "name_en": "Preservative",
+        "name_th": "สารกันบูด",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sweeteners",
+        "name_en": "Sweeteners",
+        "name_th": "สารให้ความหวาน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sucralose",
+        "name_en": "Sucralose",
+        "name_th": "ซูคราโลส",
         "percent_serving_size": -1,
         "vol": -1
       }
@@ -96,35 +107,52 @@
     },
     "nutritional_value": [
       {
-        "name": "energy",
+        "name_en": "energy",
+        "name_th": "พลังงาน",
         "percent_serving_size": 4,
         "kcal": 80
       },
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 28,
         "vol": 18
       },
       {
-        "name": "fat",
+        "name_en": "total fat",
+        "name_th": "ไขมัน",
         "percent_serving_size": 0,
         "vol": 0
       },
       {
-        "name": "sodium",
+        "name_en": "sodium",
+        "name_th": "โซเดียม",
         "percent_serving_size": 5,
         "vol": 0.095
       }
     ],
-    "storage": [
+    "storage_th": [
       "แช่เย็น",
       "เขย่าก่อนเปิด",
       "เก็บไว้ในตู้เย็นหลังเปิดแล้ว"
     ],
-    "warning": [
-      "เด็กไม่ควรรับประทาน ไม่ใช่อาหารทางการแพทย์ หยุดบริโภคเมื่อมีอาการผิดปกติ"
+    "storage_en": [
+      "Chilled",
+      "Shake before opening.",
+      "Keep it in the fridge after opening."
     ],
-    "allergy": []
+    "warning_th": [
+      "เด็กไม่ควรรับประทาน",
+      "ไม่ใช่อาหารทางการแพทย์",
+      "หยุดบริโภคเมื่อมีอาการผิดปกติ"
+    ],
+    "warning_en": [
+      "Children should not eat.",
+      "Not medical food.",
+      "Stop consuming when there is an abnormality."
+    ],
+    "allergy_th": [],
+    "allergy_en": []
   },
   "sign": {
     "rainforest_alliance_certified": false,

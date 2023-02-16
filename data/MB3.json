@@ -7,45 +7,55 @@
   "th_brand": "แอปเปิ้ลมังกี้",
   "en_brand": "Applemonkey",
   "manufacture_th": "บริษัท อาหารสุขภาพดี จำกัด",
+  "manufacture_en": "Healthy Foods CO.,LTD",
   "publisher_th": "บริษัท อาหารสุขภาพดี จำกัด",
+  "publisher_en": "Healthy Foods CO.,LTD",
   "size_th": "340 กรัม",
+  "size_en": "340 g",
   "barcode": "8857122754166",
   "type": 9,
   "mom_and_baby": {
     "fda_code": "1010615510012",
     "ingredient": [
       {
-        "name": "gluten free flour",
+        "name_en": "Gluten Free Flour",
+        "name_th": "แป้งจากพืชที่ไม่มีกลูเตน",
         "percent_serving_size": 50,
         "vol": 8
       },
       {
-        "name": "palm and coconut oil",
+        "name_en": "Palm And Coconut Oil",
+        "name_th": "น้ำมันปาล์มและมะพร้าว",
         "percent_serving_size": 20,
         "vol": 7
       },
       {
-        "name": "eggs",
+        "name_en": "Eggs",
+        "name_th": "ไข่",
         "percent_serving_size": 17,
         "vol": 5
       },
       {
-        "name": "cane sugar",
+        "name_en": "Cane Sugar",
+        "name_th": "น้ำตาลอ้อย",
         "percent_serving_size": 8,
         "vol": 4
       },
       {
-        "name": "carrot",
+        "name_en": "Carrot",
+        "name_th": "แครอท",
         "percent_serving_size": 4,
         "vol": 3
       },
       {
-        "name": "baking powder",
+        "name_en": "Baking Powder",
+        "name_th": "ผงฟู",
         "percent_serving_size": 1,
         "vol": 2
       },
       {
-        "name": "vanilla extract",
+        "name_en": "Vanilla Extract",
+        "name_th": "สารสกัดจากวานิลลา",
         "percent_serving_size": -1,
         "vol": -1
       }
@@ -123,37 +133,54 @@
     },
     "nutritional_value": [
       {
-        "name": "energy",
+        "name_en": "energy",
+        "name_th": "พลังงาน",
         "percent_serving_size": 0.02,
         "kcal": 33
       },
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 0.01,
         "vol": 0.7
       },
       {
-        "name": "fat",
+        "name_en": "total fat",
+        "name_th": "ไขมัน",
         "percent_serving_size": 0.03,
         "vol": 1.7
       },
       {
-        "name": "sodium",
+        "name_en": "sodium",
+        "name_th": "โซเดียม",
         "percent_serving_size": 0.01,
         "vol": 0.03
       }
     ],
-    "storage": [
+    "storage_th": [
       "เมื่อเปิดทานแล้วควรปิดให้สนิท"
     ],
-    "usage": [
+    "storage_en": [
+      "When opened, it should be closed tightly."
+    ],
+    "usage_th": [
       "สามารถหยิบรับประทานได้ทันที เหมาะสำหรับเด็กอายุ 12 เดือนขึ้นไป"
     ],
-    "warning": [
+    "usage_en": [
+      "Can be picked up and eaten immediately.",
+      "Suitable for children aged 12 months and over."
+    ],
+    "warning_th": [
       "เพื่อป้องกันอันตรายจากการสำลักอาหาร ผู้ปกครองควรดูแลเด็กขณะรับประทานอย่างใกล้ชิด และควรให้เด็กบริโภคขณะนั่งอย่างเหมาะสม"
     ],
-    "allergy": [
+    "warning_en": [
+      "To prevent the danger of choking on food. Parents should closely supervise children while eating and should be consumed by children while sitting properly"
+    ],
+    "allergy_th": [
       "ไข่"
+    ],
+    "allergy_en": [
+      "Egg"
     ]
   },
   "sign": {

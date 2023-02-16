@@ -7,61 +7,85 @@
   "th_brand": "แอดซอร์บ พลัส",
   "en_brand": "Adsorb Plus",
   "manufacture_th": "ประเทศจีน",
+  "manufacture_en": "China",
   "importer_th": "บริษัท เพ็ทเซอร์เคิล จำกัด",
+  "importer_en": "Pet-Circle Company Limited",
   "publisher_th": "บริษัท เพ็ทเซอร์เคิล จำกัด",
+  "publisher_en": "Pet-Circle Company Limited",
   "size_th": "50 แผ่น",
+  "size_en": "50 sheets",
   "barcode": "6932844603021",
   "type": 7,
   "pets_supplies": {
     "ingredient": [
       {
-        "name": "water",
+        "name_en": "Water",
+        "name_th": "น้ำ",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "phenoxyethanol",
+        "name_en": "Phenoxyethanol",
+        "name_th": "ฟีน็อกซีเอทานอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "polysorbate 20",
+        "name_en": "Polysorbate 20",
+        "name_th": "โพลีซอร์เบต 20",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "benzalkonium chloride",
+        "name_en": "Benzalkonium Chloride",
+        "name_th": "เบนซาลโคเนียมคลอไรด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ethanol",
+        "name_en": "Ethanol",
+        "name_th": "เอทานอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "Hydrogen peroxide",
+        "name_en": "Hydrogen Peroxide",
+        "name_th": "ไฮโดรเจนเปอร์ออกไซด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "Flavoring agent",
+        "name_en": "Flavoring Agent",
+        "name_th": "สารแต่งกลิ่น",
         "percent_serving_size": -1,
         "vol": -1
       }
     ],
-    "storage": [
+    "storage_th": [
       "เปิดฝาออก",
       "ดึงผ้าออก",
       "กรุณาปิดฝาให้สนิทหลังใช้งาน เพื่อป้องกันไม่ให้กระดาษเปียกแห้ง"
     ],
-    "usage": [
+    "storage_en": [
+      "Open the lid.",
+      "Pull the cloth off.",
+      "Please close the lid tightly after use. to prevent the paper from getting wet and dry."
+    ],
+    "usage_th": [
       "ใช้สำหรับเช็ดทำความสะอาดสัตว์เลี้ยง"
     ],
-    "warning": [
+    "usage_en": [
+      "Used for cleaning pets."
+    ],
+    "warning_th": [
       "ห้ามทิ้งลงโถชักโครก",
       "สำหรับใช้ภายนอกเท่านั้น",
       "เก็บให้พ้นมือเด็ก"
+    ],
+    "warning_en": [
+      "Do not throw it down the toilet bowl.",
+      "For external use only.",
+      "Keep out of reach of children"
     ]
   },
   "sign": {

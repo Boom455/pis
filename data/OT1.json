@@ -1,0 +1,45 @@
+{
+  "product": "OT1",
+  "th_name": "ชุบบริค อุปกรณ์ขจัดคราบ",
+  "th_name_short": "อุปกรณ์ขจัดคราบ ",
+  "en_name": "Chubbric stain remover", 
+  "en_name_short": "Stain remover",
+  "th_brand": "ชุบบริค",
+  "en_brand": "Chubbric",
+  "manufacture_th": "",
+  "manufacture_en": "",
+  "publisher_th": "",
+  "publisher_en": "",
+  "size_th": "",
+  "size_en": "",
+  "barcode": "",
+  "type": 0,
+  "other": {
+    "storage_en": [],
+    "storage_th": [],
+    "usage_en": [
+      "For removing stain"
+    ],
+    "usage_th": [
+      "ใช้สำหรับขจัดคราบ"
+    ]
+
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

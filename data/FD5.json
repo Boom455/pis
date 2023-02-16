@@ -7,84 +7,113 @@
   "th_brand": "ตราบรูค",
   "en_brand": "Brcok",
   "manufacture_th": "บริษัท ไทยนิสชิน เซฟุง จำกัด และ บริษัท เจอาร์ เอฟ แอนด์ บี จำกัด",
+  "manufacture_en": "Thai Nisshin Seifun Company Limited And JR F & B Company Limited",
   "publisher_th": "บริษัท ไทยนิสชิน เซฟุง จำกัด และ บริษัท เจอาร์ เอฟ แอนด์ บี จำกัด",
+  "publisher_en": "Thai Nisshin Seifun Company Limited And JR F & B Company Limited",
   "size_th": "120 กรัม",
+  "size_en": "120 g",
   "barcode": "8850358012130",
   "type": 1,
-  "FOOD AND DRINK": {
+  "food_and_drink": {
     "fda_code": "1113213150003",
     "ingredient": [
       {
-        "name": "vegetable",
+        "name_en": "Vegetable",
+        "name_th": "ผัก",
         "percent_serving_size": 15.56,
         "vol": 8
       },
       {
-        "name": "spice",
+        "name_en": "Spice",
+        "name_th": "เครื่องเทศ",
         "percent_serving_size": 14.02,
         "vol": 7
       },
       {
-        "name": "pork",
+        "name_en": "Pork",
+        "name_th": "เนื้อหมู",
         "percent_serving_size": 10.29,
         "vol": 6
       },
       {
-        "name": "stir fried vegetables",
+        "name_en": "Stir Fried Vegetables",
+        "name_th": "ผัดผัก",
         "percent_serving_size": 3.43,
         "vol": 5
       },
       {
-        "name": "tomoto",
+        "name_en": "Tomoto",
+        "name_th": "มะเขือเทศ",
         "percent_serving_size": 2.64,
         "vol": 4
       },
       {
-        "name": "milk",
+        "name_en": "Milk",
+        "name_th": "นม",
         "percent_serving_size": 2.64,
         "vol": 3
       },
       {
-        "name": "wheat flour",
+        "name_en": "Wheat Flour",
+        "name_th": "แป้งสาลี",
         "percent_serving_size": 1.81,
         "vol": -1
       },
       {
-        "name": "food additive",
+        "name_en": "Food Additive",
+        "name_th": "สารเติมแต่งอาหาร",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "flavoring agent",
+        "name_en": "Flavoring Agent",
+        "name_th": "สารแต่งกลิ่น",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "coloring agent",
+        "name_en": "Coloring Agent",
+        "name_th": "สารให้สี",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sugar substitute ",
+        "name_en": "Sugar Substitute",
+        "name_th": "สารให้ความหวานทดแทนน้ำตาล",
         "percent_serving_size": -1,
         "vol": -1
       }
     ],
     "nutrition": [],
     "nutritional value": [],
-    "storage": [
+    "storage_th": [
       "เก็บในที่แห้ง หลีกเลี่ยงแสงแดดและอุณหภูมิสูง"
     ],
-    "warning": [
+    "storage_en": [
+      "Store in a dry place.",
+      "Avoid direct sunlight and high temperatures."
+    ],
+    "warning_th": [
       "ห้ามนำบรรจุภัณฑ์เข้าไมโครเวฟ",
       "ไม่บริโภคหากพบว่าบรรจุภัณฑ์ชำรุด"
     ],
-    "allergy": [
+    "warning_en": [
+      "Do not put the packaging in the microwave.",
+      "Do not consume if packaging is damaged."
+    ],
+    "allergy_th": [
       "ข้าวสาลี",
       "ไข่",
       "ปลา",
       "ถั่วเหลือง",
       "นม"
+    ],
+    "allergy_en": [
+      "Wheat",
+      "Egg",
+      "Fish",
+      "Soybeanง",
+      "Milk"
     ]
   },
   "sign": {

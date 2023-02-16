@@ -18,67 +18,67 @@
     "fda_code": "02 09 62 04",
     "ingredient": [
       {
-        "name_en": "wheat flour",
+        "name_en": "Wheat Flour",
         "name_th": "แป้งสาลี",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "glycerol",
+        "name_en": "Glycerol",
         "name_th": "กลีเซอรอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "gum",
+        "name_en": "Gum",
         "name_th": "กัม",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "sodium tripolyphosphate",
+        "name_en": "Sodium Tripolyphosphate",
         "name_th": "โซเดียมไตรโพลีฟอสเฟต",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "calcium carbonate",
+        "name_en": "Calcium Carbonate",
         "name_th": "แคลเซียมคาร์บอเนต",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "gelatin",
+        "name_en": "Gelatin",
         "name_th": "เจลาติน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "potassium chloride",
+        "name_en": "Potassium Chloride",
         "name_th": "โพแทสเซียมคลอไรด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "vitamin e",
+        "name_en": "Vitamin E",
         "name_th": "วิตามินอี",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "feed additives",
+        "name_en": "Feed Additives",
         "name_th": "สารถนอมคุณภาพอาหารสัตว์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "zinc sulfate",
+        "name_en": "Zinc Sulfate",
         "name_th": "ซิงค์ซัลเฟต",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "malt flavor",
+        "name_en": "Malt Flavor",
         "name_th": "สารปรุงแต่งกลิ่นรสมอลต์",
         "percent_serving_size": -1,
         "vol": -1
@@ -90,8 +90,10 @@
     "storage_th": [
       "ควรเก็บในที่เย็นและแห้ง"
     ],
-    "usage": [],
-    "warning": []
+    "usage_en": [],
+    "usage_th": [],
+    "warning_en": [],
+    "warning_th": []
   },
   "sign": {
     "rainforest_alliance_certified": false,

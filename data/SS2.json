@@ -7,8 +7,11 @@
   "th_brand": "ง่วนเชียง",
   "en_brand": "Nguan Chiang",
   "manufacture_th": "บริษัท ง่วนเชียงอุตสาหกรรมอาหาร จำกัด",
+  "manufacture_en": "Nguan Chiang Food Industry Company Limited",
   "importer_th": "บริษัท ง่วนเชียงอุตสาหกรรมอาหาร จำกัด",
+  "importer_en": "Nguan Chiang Food Industry Company Limited",
   "publisher_th": "บริษัท ง่วนเชียงอุตสาหกรรมอาหาร จำกัด",
+  "publisher_en": "Nguan Chiang Food Industry Company Limited",
   "size_en": "350 g",
   "size_th": "350 กรัม",
   "barcode": "8851912040019",
@@ -17,37 +20,37 @@
     "fda_code": "1111052820042",
     "ingredient": [
       {
-        "name_en": "soybean",
+        "name_en": "Soybean",
         "name_th": "ถั่วเหลือง ",
         "percent_serving_size": 80,
         "vol": 7
       },
       {
-        "name_en": "water",
+        "name_en": "Water",
         "name_th": "น้ำ",
         "percent_serving_size": 0.5,
         "vol": 5
       },
       {
-        "name_en": "salt",
+        "name_en": "Salt",
         "name_th": "เกลือ",
         "percent_serving_size": 3.5,
         "vol": 3
       },
       {
-        "name_en": "sugar",
+        "name_en": "Sugar",
         "name_th": "น้ำตาล",
         "percent_serving_size": 6,
         "vol": 4
       },
       {
-        "name_en": "preservative",
+        "name_en": "Preservative",
         "name_th": "วัตถุกันเสีย",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "food enhancer",
+        "name_en": "Food Enhancer",
         "name_th": "วัตถุปรุงแต่งรสอาหาร",
         "percent_serving_size": -1,
         "vol": -1
@@ -94,7 +97,8 @@
     "storage_th": [
       "เพื่อรักษาคุณภาพของผลิตภัณฑ์ หลังเปิดใช้ควรเก็บไว้ในตู้เย็น"
     ],
-    "usage": [],
+    "usage_en": [],
+    "usage_th": [],
     "allergy_en": [
       "soybean",
       "wheat"

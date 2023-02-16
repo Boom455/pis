@@ -7,31 +7,48 @@
   "th_brand": "ฟาร์เซ็นท์",
   "en_brand": "Farcent",
   "manufacture_th": "บริษัท นวศรี แมนูแฟคเจอริ่ง จำกัด",
+  "manufacture_en": "Navasri Manufacturing Limited",
   "publisher_th": "บริษัท ฟาร์เซ็นท์ เอ็นเตอร์ไพรส์ (ประเทศไทย) จำกัด",
+  "publisher_en": "Farcent Enterprise (Thailand) CO., LTD.",
   "size_th": "1000 มิลลิลิตร",
+  "size_en": "1000 ml",
   "barcode": "4710731050101",
   "type": 3,
   "household_essentials": {
     "fda_code": "วอส.80/2559",
     "ingredient": [
       {
-        "name": "sodium hydroxide",
+        "name_en": "Sodium hydroxide",
+        "name_th": "โซเดียมไฮดรอกไซด์",
         "percent_serving_size": 25,
         "vol": 4
       }
     ],
-    "storage": [
+    "storage_th": [
       "ปิดฝาให้สนิท",
       "เก็บในที่แห้งและมิดชิด ห่างจากเด็ก อาหารและสัตว์เลี้ยง"
     ],
-    "usage": [
+    "storage_en": [
+      "Close the lid tightly.",
+      "Store in a dry and closed place away from children, food and pets."
+    ],
+    "usage_th": [
       "ต้องสวมถุงมือยางขณะใช้ทุกครั้ง"
     ],
-    "warning": [
+    "usage_en": [
+      "Must wear rubber gloves while using every time."
+    ],
+    "warning_th": [
       "ห้ามรับประทาน หรือสูดดม",
       "ระวังอย่าให้เข้าตา",
       "ขณะใช้ต้องสวมถุงมือยาง รองเท้ายาง ระวังอย่าให้ถูกมือหรือผิงหนัง",
       "อย่าใช้ ฟาร์เซ็นท์ เดรนโอเพ่นเนอร์ กับท่อเอสล่อนที่มีคุณภาพต่ำ"
+    ],
+    "warning_en": [
+      "Do not eat or inhale.",
+      "Be careful not to get it in your eyes.",
+      "While using, must wear rubber gloves, rubber shoes, be careful not to touch your hands or bake the skin.",
+      "Do not use Farcent Drain Opener. with low quality eslon pipes."
     ]
   },
   "sign": {

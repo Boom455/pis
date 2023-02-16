@@ -6,7 +6,7 @@
   "en_name_short": "Matte Blusher",
   "th_brand": "เบบี้ ไบร์ท",
   "en_brand": "Baby Bright",
-  "manufacture": "คาร์บาร์ท อินเตอร์เนชั่นแนล คอมปะนีลิมิเต็ด จีน",
+  "manufacture_th": "คาร์บาร์ท อินเตอร์เนชั่นแนล คอมปะนีลิมิเต็ด จีน",
   "manufacture_en": "Karmarts Public Co. Ltd., China",
   "importer_th": "บริษัท คาร์มาร์ท จำกัด (มหาชน)",
   "importer_en": "Karmarts Public Co., Ltd.",
@@ -20,85 +20,85 @@
     "fda_code": "1026400022449",
     "ingredient": [
       {
-        "name_en": "mica",
+        "name_en": "Mica",
         "name_th": "ไมกา",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "talc",
+        "name_en": "Talc",
         "name_th": "ทัลก์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "magnesium stearate",
+        "name_en": "Magnesium Stearate",
         "name_th": "เกลือแมกนีเซียม",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "ethylhexyl palmitate",
+        "name_en": "Ethylhexyl Palmitate",
         "name_th": "เอทิล เฮกซิล ปาล์มิเตท",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "paraffinum liquidum",
+        "name_en": "Paraffinum Liquidum",
         "name_th": "พาราฟินเหลว",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "dimethicone",
+        "name_en": "Dimethicone",
         "name_th": "ไดเมธิโคน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "polyethylene",
+        "name_en": "Polyethylene",
         "name_th": "พอลิเอทิลีน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "polybutene",
+        "name_en": "Polybutene",
         "name_th": "โพลีบิวทีน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "methylparaben",
+        "name_en": "Methylparaben",
         "name_th": "เมทิลพาราเบน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "propylparaben",
+        "name_en": "Propylparaben",
         "name_th": "โพรพิลพาราเบน",
         "percent_serving_size": -1,
         "vol": 1
       },
       {
-        "name_en": "tocopheryl acetate",
+        "name_en": "Tocopheryl Acetate",
         "name_th": "โทโคเฟอริล อซิเตท",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "ci 15850",
+        "name_en": "CI 15850",
         "name_th": "ผงอินทรีย์ สีแดงสว่าง",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "ci 77491",
+        "name_en": "CI 77491",
         "name_th": "ผงสีกลุ่มไอเอิร์นออกไซด์ สีแดง",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name_en": "ci 77499",
+        "name_en": "CI 77499",
         "name_th": "ผงสีกลุ่มไอเอิร์นออกไซด์ สีดำ",
         "percent_serving_size": -1,
         "vol": -1

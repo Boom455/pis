@@ -7,40 +7,49 @@
   "th_brand": "แฟนต้า",
   "en_brand": "Fanta",
   "manufacture_th": "บริษัท หาดทิพย์ จำกัด (มหาชน)",
+  "manufacture_en": "HaadThip Public Company Limited",
   "publisher_th": "บริษัท หาดทิพย์ จำกัด (มหาชน)",
+  "publisher_en": "HaadThip Public Company Limited",
   "size_th": "325 มิลลิลิตร",
+  "size_en": "325 ml",
   "barcode": "8851959132173",
   "type": 1,
   "food_and_drink": {
     "fda_code": "8410785610005",
     "ingredient": [
       {
-        "name": "sugar",
+        "name_en": "Sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 4.5,
         "vol": 4
       },
       {
-        "name": "carbon dioxide",
+        "name_en": "Carbon Dioxide",
+        "name_th": "คาร์บอนไดออกไซด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "acidity regulatort",
+        "name_en": "Acidity Regulatort",
+        "name_th": "สารควบคุมความเป็นกรด",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "preservative",
+        "name_en": "Preservative",
+        "name_th": "สารกันบูด",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sucralose",
+        "name_en": "Sucralose",
+        "name_th": "ซูคราโลส",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "flavoring agent",
+        "name_en": "Flavoring Agent",
+        "name_th": "สารแต่งกลิ่น",
         "percent_serving_size": -1,
         "vol": -1
       }
@@ -81,31 +90,40 @@
     },
     "nutritional_value": [
       {
-        "name": "energy",
+        "name_en": "energy",
+        "name_th": "พลังงาน",
         "percent_serving_size": 3,
         "kcal": 60
       },
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 23,
         "vol": 15
       },
       {
-        "name": "fat",
+        "name_en": "total fat",
+        "name_th": "ไขมัน",
         "percent_serving_size": 0,
         "vol": 0
       },
       {
-        "name": "sodium",
+        "name_en": "sodium",
+        "name_th": "โซเดียม",
         "percent_serving_size": 2,
         "vol": 0.035
       }
     ],
-    "storage": [
+    "storage_th": [
       "ควรเก็บในที่เย็นและแห้ง",
       "หลีกเลี่ยงแสงแดด"
     ],
-    "allergy": []
+    "storage_en": [
+      "Should be stored in a cool, dry place.",
+      "Avoid the sunlight."
+    ],
+    "allergy_en": [],
+    "allergy_th": []
   },
   "sign": {
     "rainforest_alliance_certified": false,

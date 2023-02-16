@@ -7,21 +7,53 @@
   "th_brand": "พิพเพอร์สแตนดาร์ด",
   "en_brand": "Pipper Standard",
   "manufacture_th": "บริษัท สแตนดาร์ด แมนูแฟคเจอริ่ง จำกัด",
+  "manufacture_en": "Standard Manufacturing.Co.ltd",
   "publisher_th": "บริษัท สแตนดาร์ด แมนูแฟคเจอริ่ง จำกัด",
+  "publisher_en": "Standard Manufacturing.Co.ltd",
   "size_th": "900 มิลลิลิตร",
+  "size_en": "900 ml",
   "barcode": "8859160500620",
   "type": 3,
   "household_essentials": {
     "fda_code": "สป 151/2564",
     "ingredient": [
-      {"name": "alkyl polyglycoside", "percent_serving_size": 5.15, "vol": 4},
-      {"name": "sodium lauryl sulfate", "percent_serving_size": 1.90, "vol": 2}
+      {
+        "name_en": "Alkyl Polyglycoside",
+        "name_th": "อัลคิลโพลีไกลโคไซด์",
+        "percent_serving_size": 5.15,
+        "vol": 4
+      },
+      {
+        "name_en": "Sodium Lauryl Sulfate",
+        "name_th": "โซเดียมโดดีซิลซัลเฟต",
+        "percent_serving_size": 1.90,
+        "vol": 2
+      }
     ],
-    "storage":["เก็บในที่มิดชิด ห่างจากเด็ก อาหาร และสัตว์เลี้ยง"],
-    "usage":["ใช้ทำความสะอาดภาชนะหรือเครื่องใช้ในครัว"],
-    "warning":["ห้ามรับประทาน", "ระวังอย่าให้เข้าตา", "สำหรับผู้ที่แพ้สารเคมีง่ายหรือต้องล้างเป็นเวลานานหรือเป็นประจำ ควรสวมถุงมือยาง", "ห้ามทิ้งผลิตภัณฑ์หรือภาชนะบรรจุที่ใช้หมดแล้วลงในแม่น้ำ คู คลอง แหล่งน้ำสาธารณะ"]
-    
-
+    "storage_th": [
+      "เก็บในที่มิดชิด ห่างจากเด็ก อาหาร และสัตว์เลี้ยง"
+    ],
+    "storage_en": [
+      "Store in a closed place away from children, food and pets."
+    ],
+    "usage_th": [
+      "ใช้ทำความสะอาดภาชนะหรือเครื่องใช้ในครัว"
+    ],
+    "usage_en": [
+      "Used to clean utensils or kitchen utensils."
+    ],
+    "warning_th": [
+      "ห้ามรับประทาน",
+      "ระวังอย่าให้เข้าตา",
+      "สำหรับผู้ที่แพ้สารเคมีง่ายหรือต้องล้างเป็นเวลานานหรือเป็นประจำ ควรสวมถุงมือยาง",
+      "ห้ามทิ้งผลิตภัณฑ์หรือภาชนะบรรจุที่ใช้หมดแล้วลงในแม่น้ำ คู คลอง แหล่งน้ำสาธารณะ"
+    ],
+    "warning_en": [
+      "Do not eat.",
+      "Be careful not to get it in your eyes.",
+      "For those who are sensitive to chemicals or need to wash for a long time or regularly should wear rubber gloves.",
+      "Do not dispose of used products or containers into rivers, ditches, canals, public water sources."
+    ]
   },
   "sign": {
     "rainforest_alliance_certified": false,
@@ -33,13 +65,11 @@
     "no_cf_cs": false,
     "bpa_free": false,
     "thailand_trusted_quality_mark": false,
-    "alcohol_free" : false,
-    "paraben_free" : false,
-    "fragrance_free" : false,
-    "non_irritation_tested" : true,
-    "biodegradable" : true,
-    "pycnogenol" : false
-
-
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": true,
+    "biodegradable": true,
+    "pycnogenol": false
   }
 }

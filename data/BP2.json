@@ -7,130 +7,163 @@
   "th_brand": "ซอลส์",
   "en_brand": "Salz",
   "manufacture_th": "บริษัท ไลอ้อน (ประเทศไทย) จำกัด",
+  "manufacture_en": "Lion (Thailand) Co.,Ltd.",
   "publisher_th": "บริษัท ไลอ้อน (ประเทศไทย) จำกัด",
+  "publisher_en": "Lion (Thailand) Co.,Ltd.",
   "size_th": "3*160 กรัม",
+  "size_en": "3*160 g",
   "barcode": "8850002906655",
   "type": 5,
   "beauty_and_personal_care": {
     "fda_code": "1016100027368",
     "ingredient": [
       {
-        "name": "water",
+        "name_en": "Water",
+        "name_th": "น้ำ",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sorbitol",
+        "name_en": "Sorbitol",
+        "name_th": "ซอร์บิทอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "hydrated silica",
+        "name_en": "Hydrated Silica",
+        "name_th": "ไฮเดรทเต็ด ซิลิกา",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sodium chloride",
+        "name_en": "Sodium Chloride",
+        "name_th": "โซเดียมคลอไรด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sodium lauryl sulfate",
+        "name_en": "Sodium Lauryl Sulfate",
+        "name_th": "โซเดียมลอเรทซัลเฟต",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "propylene glycol",
+        "name_en": "Propylene Glycol",
+        "name_th": "โพรพิลีนไกลคอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "pec-20 hydrogenated castor oil",
+        "name_en": "Peg-20 Hydrogenated Castor Oil",
+        "name_th": "อิมัลซิไฟเออร์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "cellulose gum",
+        "name_en": "Cellulose Gum",
+        "name_th": "เซลลูโลส กัม",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "menthol",
+        "name_en": "Menthol",
+        "name_th": "เมนทอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "mentha piperita oil",
+        "name_en": "Mentha Piperita Oil",
+        "name_th": "น้ำมันหอมระเหย เปปเปอร์มินท์",
         "percent_serving_size": -1,
         "vol": 1
       },
       {
-        "name": "flavour",
+        "name_en": "Flavour",
+        "name_th": "กลิ่นรส",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "titanium Dioxide",
+        "name_en": "Titanium Dioxide",
+        "name_th": "ไทเทเนียมไดออกไซด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sodium hydroxide",
+        "name_en": "Sodium Hydroxide",
+        "name_th": "โซเดียม ไฮดรอกไซด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sodium fluoride",
+        "name_en": "Sodium Fluoride",
+        "name_th": "โซเดียมฟลูออไรด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sodium saccharin",
+        "name_en": "Sodium Saccharin",
+        "name_th": "โซเดียม แซ็กคาริน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "dipotassium glycyrrhizate",
+        "name_en": "Dipotassium Glycyrrhizate",
+        "name_th": "สารสกัดรากชะเอมเทศ",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "D-limonene",
+        "name_en": "D-Limonene",
+        "name_th": "ดี-ลิโมนีน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ethylparaben",
+        "name_en": "Ethylparaben",
+        "name_th": "เอทิลพาราเบน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "butylparaben",
+        "name_en": "Butylparaben",
+        "name_th": "บิวทิลพาราเบน",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "eugenol",
+        "name_en": "Eugenol",
+        "name_th": "ยูเจนอล",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "mentha arvensis leaf oil",
+        "name_en": "Mentha Arvensis Leaf Oil",
+        "name_th": "น้ำมันหอมระเหย มินท์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "ubiqulnone",
+        "name_en": "Ubiquinone",
+        "name_th": "ยูบิควิโนน",
         "percent_serving_size": -1,
         "vol": -1
       }
     ],
-    "storage": [],
-    "usage": [
+    "storage_en": [],
+    "storage_th": [],
+    "usage_en": [
+      "Brush your teeth with Salz Fresh Japanese Mint Toothpaste regularly every day. At least 2 times a day or after every meal."
+    ],
+    "usage_th": [
       "แปรงฟันด้วย ยาสีฟันซอลส์ เฟรช แจแปนนิส มินต์ เป็นประจำอย่างต่อเนื่องทุกวัน อย่างน้อยวันละ 2 ครั้ง หรือหลังอาหารทุกมื้อ"
     ],
-    "warning": [
-      "มีสาร Sodium Fluoride",
+    "warning_en": [
+      "Has sodium fluoride",
+      "Children under 6 years of age should use a pea-sized amount of toothpaste. and have an adult supervise while brushing your teeth In the event that the child has been exposed to fluoride from other sources as well Consult your doctor or dentist."
+    ],
+    "warning_th": [
+      "มีสารโซเดียมฟลูออไรด์",
       "เด็กอายุต่ำกว่า 6 ปี ควรใช้ยาสีฟันปริมาณเท่าเมล็ดถั่วเขียว และมีผู้ใหญ่ดูแลขณะแปรงฟัน ในกรณีที่เด็กได้รับสารฟลูออไรด์จากแหล่งอื่นด้วย ให้ปรึกษาแพทย์หรือทันตแพทย์"
     ]
   },

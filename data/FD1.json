@@ -20,25 +20,25 @@
         "fda_code": "1031152310704",
         "ingredient": [
             {
-                "name_en": "sugar",
+                "name_en": "Sugar",
                 "name_th": "น้ำตาล",
                 "percent_serving_size": 47,
                 "vol": 6
             },
             {
-                "name_en": "cocoa",
+                "name_en": "Cocoa",
                 "name_th": "ผลิตภัณฑ์จากโกโก้ ",
                 "percent_serving_size": 29,
                 "vol": 2
             },
             {
-                "name_en": "milk powder",
+                "name_en": "Milk Powder",
                 "name_th": "นมผง",
                 "percent_serving_size": 20,
                 "vol": 1
             },
             {
-                "name_en": "emulsifier",
+                "name_en": "Emulsifier",
                 "name_th": "อิมัลซิไฟเออร์",
                 "percent_serving_size": -1,
                 "vol": -1
@@ -116,7 +116,7 @@
             "ควรเก็บในที่แห้งและเย็น"
         ],
         "usage_en": [
-            "Eat less and exercise for health"
+            "Eat less and exercise for health."
         ],
         "usage_th": [
             "บริโภคแต่น้อยและออกกำลังกายเพื่อสุขภาพ"
@@ -130,12 +130,12 @@
             "ไข่"
         ],
         "allergy_en": [
-            "powdered milk",
-            "hazelnuts",
-            "soya Lecithins",
-            "peanuts",
-            "gluten",
-            "egg"
+            "Powdered Milk",
+            "Hazelnuts",
+            "Soya Lecithins",
+            "Peanuts",
+            "Gluten",
+            "Egg"
         ]
     },
     "sign": {

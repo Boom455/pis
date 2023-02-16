@@ -7,46 +7,57 @@
   "th_brand": "ตราสิงห์ เลมอนโซดา",
   "en_brand": "Singha Lemon Soda",
   "manufacture_th": "บริษัท ชบาบางกอก จำกัด",
+  "manufacture_en": "Chabaa Bangkok Company Limited",
   "importer_th": "บริษัท สิงห์ คอร์เปอเรชั่น จำกัด",
+  "importer_en": "Singha Corporation Company Limited",
   "publisher_th": "บริษัท สิงห์ คอร์เปอเรชั่น จำกัด",
+  "publisher_en": "Singha Corporation Company Limited",
   "size_th": "330 มิลลิลิตร",
+  "size_en": "330 ml",
   "barcode": "8850999016863",
   "type": 1,
   "food_and_drink": {
     "fda_code": "1320725820045",
     "ingredient": [
       {
-        "name": "lemon juice",
+        "name_en": "Lemon Juice",
+        "name_th": "น้ำมะนาว",
         "percent_serving_size": 1.5,
         "vol": 5
       },
       {
-        "name": "carbon dioxide",
+        "name_en": "Carbon Dioxide",
+        "name_th": "คาร์บอนไดออกไซด์",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "acidity regulator",
+        "name_en": "Acidity Regulator",
+        "name_th": "สารควบคุมความเป็นกรด",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "antioxidant",
+        "name_en": "Antioxidant",
+        "name_th": "สารต้านอนุมูลอิสระ",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "stabilizer",
+        "name_en": "Stabilizer",
+        "name_th": "สารที่ทำให้เกิดการคงตัว",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "preservatives",
+        "name_en": "Preservatives",
+        "name_th": "สารกันบูด",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "sucralose",
+        "name_en": "Sucralose",
+        "name_th": "ซูคราโลส",
         "percent_serving_size": -1,
         "vol": -1
       }
@@ -92,28 +103,33 @@
     },
     "nutritional_value": [
       {
-        "name": "energy",
+        "name_en": "energy",
+        "name_th": "พลังงาน",
         "percent_serving_size": 0,
         "kcal": 0
       },
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 0,
         "vol": 0
       },
       {
-        "name": "fat",
+        "name_en": "total fat",
+        "name_th": "ไขมัน",
         "percent_serving_size": 0,
         "vol": 0
       },
       {
-        "name": "sodium",
+        "name_en": "sodium",
+        "name_th": "โซเดียม",
         "percent_serving_size": 5,
         "vol": 0.095
       }
     ],
     "storage": [],
-    "allergy": []
+    "allergy_en": [],
+    "allergy_th": []
   },
   "sign": {
     "rainforest_alliance_certified": false,

@@ -1,31 +1,42 @@
 {
   "product": "HH2",
-  "th_name": "ชุบบริค อุปกรณ์ขจัดคราบ",
-  "th_name_short": "อุปกรณ์ขจัดคราบ ",
-  "en_name": "Chubbric stain remover", 
-  "en_name_short": "Stain remover",
-  "th_brand": "ชุบบริค",
-  "en_brand": "Chubbric",
-  "manufacture_th": "",
-  "publisher_th": "",
-  "size_th": "",
-  "barcode": "",
-  "type": 0,
+  "th_name": "สมาร์ทเตอร์ช้อนส้อมย่อยสลายได้ตามธรรมชาติ",
+  "th_name_short": "อุปกรณ์สำหรับรับประทานอาหาร ",
+  "en_name": "Smarter Bio Plastic Cutlery",
+  "en_name_short": "Bio Plastic Cutlery",
+  "th_brand": "ตราสมาร์ทเตอร์",
+  "en_brand": "smart-R",
+  "manufacture_th": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
+  "manufacture_en": "Central Food Retail Company LTD",
+  "publisher_th": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
+  "publisher_en": "Central Food Retail Company LTD",
+  "size_th": "12 คู่",
+  "size_en": "12 pairs",
+  "barcode": "8853474049479",
+  "type": 3,
   "household_essentials": {
-    "storage_en": [],
-    "storage_th": [],
-    "usage_en": [
-      "For removing stain"
+    "storage_en":[],
+    "storage_th":[],
+    "usage_th":[
+      "ใช้สำหรับรับประทานอาหาร"
     ],
-    "usage_th": [
-      "ใช้สำหรับขจัดคราบ"
+    "usage_en":[
+      "Used for eating."
     ],
-    "warning": [
+    "warning_th": [
       "ห้ามเก็บบรรจุภัณฑ์ไว้ใกล้ความร้อนและเปลวไฟ",
       "ควรใช้ครั้งเดียวแล้วทิ้ง",
       "ปลอดภัยใช้กับอาหาร",
       "ใช้ได้ที่อุณหภูมิ 0 ถึง 70 องศาเซลเซียส"
+    ],
+    "warning_en": [
+      "Do not store the package near heat and flame.",
+      "Should be used once and then discarded.",
+      "Safe for use with food.",
+      "Can be used at temperatures from 0 to 70 degrees celsius."
     ]
+
+
   },
   "sign": {
     "rainforest_alliance_certified": false,
@@ -37,11 +48,13 @@
     "no_cf_cs": false,
     "bpa_free": false,
     "thailand_trusted_quality_mark": false,
-    "alcohol_free": false,
-    "paraben_free": false,
-    "fragrance_free": false,
-    "non_irritation_tested": false,
-    "biodegradable": false,
-    "pycnogenol": false
+    "alcohol_free" : false,
+    "paraben_free" : false,
+    "fragrance_free" : false,
+    "non_irritation_tested" : false,
+    "biodegradable" : false,
+    "pycnogenol" : false
+
+
   }
 }

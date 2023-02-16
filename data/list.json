@@ -76,8 +76,8 @@
     },
     {
         "key": "HH2",
-        "th": "ชุบบริค อุปกรณ์ขจัดคราบ",
-        "en": "Chubbric stain remover"
+        "th": "สมาร์ทเตอร์ช้อนส้อมย่อยสลายได้ตามธรรมชาติ",
+        "en": "Smarter Bio Plastic Cutlery"
     },
     {
         "key": "HH3",
@@ -130,27 +130,32 @@
         "en": "Applemonkey Cookies with carrot "
     },
     {
+        "key": "OT1",
+        "th": "ชุบบริค อุปกรณ์ขจัดคราบ",
+        "en": "Chubbric stain remover"
+    },
+    {
         "key": "P1",
         "th": "เพดดีกรี เดนต้าสติก สำหรับสุนัขพันธุ์กลาง",
         "en": "Pedigree Dentastix Medium Dog Treats"
     },
     {
-        "key": "P1",
+        "key": "P2",
         "th": "โอริเจนอาหารสุนัขสูตรลูกสุนัข",
         "en": "Orijen Puppy"
     },
     {
-        "key": "P1",
+        "key": "P3",
         "th": "Absorb Plus กลิ่นแป้งเด็ก สูตรอ่อนโยน",
         "en": "Antibacterial Pet Wipes"
     },
     {
-        "key": "P1",
+        "key": "P4",
         "th": "สุกินะผ้าอ้อมสุนัขไซส์ XL ",
         "en": "Sukina Petto Diaper Size XL"
     },
     {
-        "key": "P1",
+        "key": "P5",
         "th": "ถุงเก็บมูลสัตว์ ตราสมาร์ทเตอร์",
         "en": "Smarter brand Poop Bags"
     },
@@ -160,7 +165,7 @@
         "en": "Hershey's syrup caramel"
     },
     {
-        "key": "SS1",
+        "key": "SS2",
         "th": "เต้าเจี้ยวสูตร 1 ตราง่วนเชียง",
         "en": "Fermented Soybean Formula 1 Nguan Chiang Brand"
     }

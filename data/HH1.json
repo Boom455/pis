@@ -20,19 +20,19 @@
     "fda_code": "ฉช 1/2565",
     "ingredient": [
       {
-        "name_en": "ethoxylated alcohol sulfate",
+        "name_en": "Ethoxylated Alcohol Sulfate",
         "name_th": "เกลือโมโนเอทาโนลามีนของเอทอกซีเลเต็ดแอลกอฮอล์ซัลเฟต",
         "percent_serving_size": 19.3,
         "vol": 3
       },
       {
-        "name_en": "linear alkylbenzene sulfonate",
+        "name_en": "Linear Alkylbenzene Sulfonate",
         "name_th": "เกลือโมโนเอทาโนลามีนของลิเนียร์อัลคิลเบนซีนซัลโฟเนต",
         "percent_serving_size": 19.3,
         "vol": 3
       },
       {
-        "name_en": "ethoxylated alcohol",
+        "name_en": "Ethoxylated Alcohol",
         "name_th": "เอทอกซีเลเต็ดแอลกอฮอล์",
         "percent_serving_size": 7.5,
         "vol": 2
@@ -40,7 +40,7 @@
     ],
     "storage_en": [
         "Keep the product in its original box away from children, food, and pets.",
-        "Close lid tightly after use",
+        "Close lid tightly after use.",
         "Store in a cool and dry place away from the sunlight."
     ],
     "storage_th": [

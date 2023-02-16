@@ -6,22 +6,34 @@
   "en_name_short": "LED Set 18watt",
   "th_brand": "แรนดี้",
   "en_brand": "Randy",
-  "manufacture_th": "ประเทศจีน",
+  "manufacture_th": "China",
   "importer_th": "บริษัท ดี.ดับเบิ้ลยู.อิมปอร์ต เอ็กปอร์ต",
+  "importer_en": "DW Import Export",
   "publisher_th": "บริษัท ดี.ดับเบิ้ลยู.อิมปอร์ต เอ็กปอร์ต",
+  "publisher_en": "DW Import Export",
   "size_th": "1 หลอด",
+  "size_en": "1 bulb",
   "barcode": "6940878527923",
   "type": 4,
   "electronic": {
     "fda_code": "1955 2551",
-    "storage": [],
-    "usage": [
+    "storage_th": [],
+    "storage_en": [],
+    "usage_th": [
       "เพื่อให้แสงสว่าง ใช้ติดตั้งเข้ากับโคมนีออน โดยใช้ต่อกับไฟฟ้า 180-240 โวลท์"
     ],
-    "warning": [
+    "usage_en": [
+      "To light used to install with neon lamps By using to connect to electricity 180-240 volts."
+    ],
+    "warning_th": [
       "ห้ามเปลี่ยนหลอดไฟขณะที่ยังเปิดสวิตซ์ หรือตัวเปียกชื้น",
       "ห้ามดัดแปลงหรือใช้ร่วมกับอุปกรณ์ที่ไม่ได้มาตรฐาน",
       "ควรติดตั้งให้พ้นมือเด็ก และบริเวณที่มีความร้อนสูง"
+    ],
+    "warning_en": [
+      "Do not change the bulb while the switch is on. or wet body.",
+      "Do not modify or use in conjunction with non-standard equipment.",
+      "Should be installed out of reach of children. and areas with high heat."
     ]
   },
   "sign": {

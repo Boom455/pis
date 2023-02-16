@@ -7,22 +7,29 @@
   "th_brand": "อาท",
   "en_brand": "Ars",
   "manufacture_th": "บริษัท เอิร์ธ (ประเทศไทย) จำกัด",
+  "manufacture_en": "Earth (Thailand) Company Limited",
   "publisher_th": "บริษัท เอิร์ธ (ประเทศไทย) จำกัด",
+  "publisher_en": "Earth (Thailand) Company Limited",
   "size_th": "300 มิลลิลิตร",
+  "size_en": "300 ml",
   "barcode": "8850273191118",
   "type": 3,
   "household_essentials": {
     "ingredient": [
       {
-        "name": "peppermint oil",
+        "name_en": "Peppermint Oil",
+        "name_th": "น้ำมันสะระแหน่",
         "percent_serving_size": -1,
         "vol": -1
       }
     ],
-    "storage": [
+    "storage_th": [
       "เก็บในที่มิดชิด ให้ห่างจากเด็ก อาหารและสัตว์เลี้ยง เปลวไฟ หรือความร้อน"
     ],
-    "usage": [
+    "storage_en": [
+      "Keep it in a closed place. Keep away from children food and pets, flame or heat."
+    ],
+    "usage_th": [
       "ตั้งขวดให้อยู่ในแนวตรงทุกครั้งเมื่อต้องการใช้งาน และห้ามปิดหรืออุดรูสเปรย์",
       "ห้ามฉีดพ่นบริเวณที่มีโอกาสปนเปื้อนกับอาหาร หรือพื้นผิวที่สัมผัสกับอาหาร",
       "ห้ามฉีดพ่นบริเวณที่เด็กและสัตว์เลี้ยงสามารถเข้าถึงได้",
@@ -31,7 +38,16 @@
       "ควรใช้ในปริมาณที่กำหนดไว้ และปฏิบัติตามการใช้งานอย่างถูกต้อง",
       "ห้ามฉีดโดยตรงบนผิวหนังหรือส่วนใดๆ บนร่างกาย"
     ],
-    "warning": [
+    "usage_en": [
+      "Always keep the bottle upright when you want to use it and do not cover or plug the spray holes.",
+      "Do not spray on areas that are likely to be contaminated with food or food contact surfaces.",
+      "Do not spray in areas accessible to children and pets.",
+      "Do not use in open flames.",
+      "Do not inhale or make direct contact with the product.",
+      "Should be used in the prescribed amount and follow the correct usage.",
+      "Do not spray directly on the skin or any part of the body."
+    ],
+    "warning_th": [
       "อ่านฉลากให้ละเอียดก่อนใช้งาน",
       "ระวังอย่าให้ละออกเข้าตา ปาก หรือจมูก",
       "เมื่อเสร็จจากการใช้งานแล้ว ต้องล้างมือให้สะอาดด้วยน้ำและสบู่ทุกครั้ง",
@@ -39,6 +55,15 @@
       "ห้ามทิ้งผลิตภัณฑ์หรือภาชนะบรรจุที่ใช้หมดแล้วลงในแม่น้ำ คู คลอง แหล่งน้ำสาธารณะ",
       "ห้ามเผาไฟ",
       "ห้ามฉีดโดยตรงที่หลอดไฟ"
+    ],
+    "warning_en": [
+      "Read the label carefully before use.",
+      "Be careful not to let it get into your eyes, mouth or nose.",
+      "When finished using always wash your hands with soap and water.",
+      "Do not spray in rooms with babies or patients.",
+      "Do not dispose of used products or containers into rivers, ditches, canals, public water sources.",
+      "Do not burn it.",
+      "Do not spray directly on the lamp."
     ]
   },
   "sign": {

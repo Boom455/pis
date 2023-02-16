@@ -18,55 +18,55 @@
     "fda_code": "2010356350072",
     "ingredient": [
       {
-        "name_en": "licorice extract",
+        "name_en": "Licorice extract",
         "name_th": "สารสกัดชะเอมเทศ ",
         "percent_serving_size": -1,
         "vol": 0.15
       },
       {
-        "name_en": "l-glutathione",
+        "name_en": "L-glutathione",
         "name_th":"แอล-กลูต้าไธโอน ",
         "percent_serving_size": -1,
         "vol": 0.125
       },
       {
-        "name_en": "tomato extract",
+        "name_en": "Tomato Extract",
         "name_th": "สารสกัดมะเขือเทศ",
         "percent_serving_size": -1,
         "vol": 0.085
       },
       {
-        "name_en": "vitamin c",
+        "name_en": "Vitamin c",
         "name_th": "วิตามินซี",
         "percent_serving_size": -1,
         "vol": 0.03
       },
       {
-        "name_en": "coenzyme q10",
+        "name_en": "Coenzyme Q10",
         "name_th": "โคเอนไซม์คิวเท็น",
         "percent_serving_size": -1,
         "vol": 0.03
       },
       {
-        "name_en": "french maritime pine bark extract",
+        "name_en": "French Maritime Pine Bark Extract",
         "name_th": "สารสกัดเปลือกสนฝรั่งเศส ",
         "percent_serving_size": -1,
         "vol": 0.025
       },
       {
-        "name_en": "alpha-lipoic acid",
+        "name_en": "Alpha-Lipoic Acid",
         "name_th": "แอลฟา-ไลโปอิกแอซิด ",
         "percent_serving_size": -1,
         "vol": 0.025
       },
       {
-        "name_en": "vitamin e",
+        "name_en": "Vitamin e",
         "name_th":"วิตามินอี ",
         "percent_serving_size": -1,
         "vol": 0.02
       },
       {
-        "name_en": "zinc amino acid chelate",
+        "name_en": "Zinc Amino Acid Chelate",
         "name_th": "ซิงค์อะมิโนแอซิดคีเลต",
         "percent_serving_size": -1,
         "vol": 0.015

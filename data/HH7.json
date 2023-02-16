@@ -7,16 +7,25 @@
   "th_brand": "ซิงค์",
   "en_brand": "Zilk",
   "manufacture_th": "บริษัท เบอร์ลี่ ยุคเกอร์ เซลล็อกซ์ จำกัด",
+  "manufacture_en": "Berli Jucker Cellox LTD. ",
   "publisher_th": "บริษัท เบอร์ลี่ ยุคเกอร์ จำกัด (มหาชน)",
+  "publisher_en": "Berli Jucker Public Company Limited",
   "size_th": "40 ม้วน",
+  "size_en": "40 rolls",
   "barcode": "8850046114405",
   "type": 3,
   "household_essentials": {
-    "storage": [
+    "storage_th": [
       "ควรเก็บในบริเวณแห้ง"
     ],
-    "usage": [
+    "storage_en": [
+      "Should be stored in a dry area."
+    ],
+    "usage_th": [
       "ใช้เช็ดทำความสะอาดหลังการเข้าห้องน้ำ"
+    ],
+    "usage_en": [
+      "Use to wipe clean after going to the toilet."
     ],
     "warning": []
   },

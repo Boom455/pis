@@ -7,30 +7,37 @@
   "th_brand": "เทสโต",
   "en_brand": "Tasto",
   "manufacture_th": "บริษัท เบอร์ลี่ ยุคเกอร์ ฟู้ดส์ จำกัด",
+  "manufacture_en": "Berli Jucker Foods Ltd",
   "publisher_th": "บริษัท เบอร์ลี่ ยุคเกอร์ จำกัด (มหาชน)",
+  "publisher_en": "Berli Jucker Foods Ltd",
   "size_th": "11 กรัม",
+  "size_en": "11 g",
   "barcode": "8851004416050",
   "type": 1,
   "food_and_drink": {
     "fda_code": "1111152620031",
     "ingredient": [
       {
-        "name": "potato",
+        "name_en": "Potato",
+        "name_th": "มันฝรั่ง",
         "percent_serving_size": 90,
         "vol": 7
       },
       {
-        "name": "palm olein",
+        "name_en": "Palm olein",
+        "name_th": "ปาล์มโอลีน",
         "percent_serving_size": 8,
         "vol": 2
       },
       {
-        "name": "flavoring agent",
+        "name_en": "Flavoring Agent",
+        "name_th": "สารแต่งกลิ่น",
         "percent_serving_size": -1,
         "vol": -1
       },
       {
-        "name": "Food additive",
+        "name_en": "Food Additive",
+        "name_th": "สารเติมแต่งอาหาร",
         "percent_serving_size": -1,
         "vol": -1
       }
@@ -76,31 +83,39 @@
     },
     "nutritional_value": [
       {
-        "name": "energy",
+        "name_en": "energy",
+        "name_th": "พลังงาน",
         "percent_serving_size": 1,
         "kcal": 335
       },
       {
-        "name": "sugar",
+        "name_en": "sugar",
+        "name_th": "น้ำตาล",
         "percent_serving_size": 3,
         "vol": 2
       },
       {
-        "name": "fat",
+        "name_en": "total fat",
+        "name_th": "ไขมัน",
         "percent_serving_size": 32,
         "vol": 2
       },
       {
-        "name": "sodium",
+        "name_en": "sodium",
+        "name_th": "โซเดียม",
         "percent_serving_size": 16,
         "vol": 0.39
       }
     ],
-    "storage": [
+    "storage_th": [
       "เก็บไว้ในที่แห้งและอุณหภูมิห้อง",
       "ไม่ควรเก็บในที่แสงแดดส่องถึง"
     ],
-    "allergy": [
+    "storage_en": [
+      "Stored in a dry place at room temperature.",
+      "Shouldn't be stored in direct sunlight."
+    ],
+    "allergy_th": [
       "กลูเตน",
       "สัตว์น้ำที่มีเปลือกแข็ง",
       "ไข่",
@@ -111,6 +126,18 @@
       "ถั่วที่มีเปลือกแข็ง",
       "ซัลไฟต์",
       "เกลือไอโอดีน"
+    ],
+    "allergy_en": [
+      "Gluten",
+      "Crustacean",
+      "Egg",
+      "Fish",
+      "Peanuts",
+      "Soybean",
+      "Milk",
+      "Nuts",
+      "Sulfite",
+      "Iodized salt"
     ]
   },
   "sign": {

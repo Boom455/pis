@@ -7,19 +7,40 @@
   "th_brand": "ตราสมาร์ทเตอร์",
   "en_brand": "Smart-R",
   "manufacture_th": "ประเทศจีน",
+  "manufacture_en": "China",
   "importer_th": "บริษัท ไทยฮาฮา จำกัด",
+  "importer_en": "Thai Ha Ha Company Limited",
   "publisher_th": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
+  "publisher_en": "Central Food Retail Company LTD",
   "size_th": "45 ใบ",
+  "size_en": "45 cards",
   "barcode": "8853474066360",
   "type": 7,
   "pets_supplies": {
-    "storage": ["เก็บให้พ้นมือเด็ก แสงแดด และเปลวไฟ"],
-    "usage":["นำถุงเก็บมูลสัตว์ใส่ในกล่องเก็บ เพื่อความสะดวกในการพกพา", "ฉีกถุงตามรอยปรุสวมใส่ที่มือแล้วนำไปเก็บมูลสัตว์ที่ต้องการ"],
-    "warning":["ห้ามใช้บรรจุหรือห่อหุ้มอาหาร"],
-    "allergy": []
+    "storage_th": [
+      "เก็บให้พ้นมือเด็ก แสงแดด และเปลวไฟ"
+    ],
+    "storage_en": [
+      "Keep out of reach of children, sunlight and open flame."
+    ],
+    "usage_th": [
+      "นำถุงเก็บมูลสัตว์ใส่ในกล่องเก็บ เพื่อความสะดวกในการพกพา",
+      "ฉีกถุงตามรอยปรุสวมใส่ที่มือแล้วนำไปเก็บมูลสัตว์ที่ต้องการ"
+    ],
+    "usage_en": [
+      "Put the manure collection bag in the storage box. For ease of portability.",
+      "Tear the bag along the perforation, wear it on your hand and collect the excrement you want."
+    ],
+    "warning_th": [
+      "ห้ามใช้บรรจุหรือห่อหุ้มอาหาร"
+    ],
+    "warning_en": [
+      "Do not use for packing or wrapping food."
+    ],
+    "allergy_th": [],
+    "allergy_en": []
   },
-  
-  "sign": { 
+  "sign": {
     "rainforest_alliance_certified": false,
     "recycle": false,
     "iso_9001": false,
@@ -29,12 +50,11 @@
     "no_cf_cs": false,
     "bpa_free": false,
     "thailand_trusted_quality_mark": false,
-    "alcohol_free" : false,
-    "paraben_free" : false,
-    "fragrance_free" : false,
-    "non_irritation_tested" : false,
-    "biodegradable" : false,
-    "pycnogenol" : false
-
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
   }
 }
