@@ -1,8 +1,8 @@
 {
   "product": "MB2",
-  "th_name": "ผลิตภัณฑ์นมพร่องมันเนยสำหรับสตรีมีครรภ์และสตรีให้นมบุตร ",
+  "th_name": "แอนมัม มาเทอร์น่า ผลิตภัณฑ์นมพร่องมันเนย ยูเอชที สำหรับสตรีมีครรภ์ และสตรีให้นมบุตร ",
   "th_name_short": "ผลิตภัณฑ์นมพร่องมันเนย",
-  "en_name": "Partially Non-fat Milk Product for Pregnant & Lactating Women",
+  "en_name": "ANMUM Materna UHT Partially Non Fat Milk Product for Pregnant Women and Lactating Women Plain",
   "en_name_short": "Partially non fat milk product",
   "th_brand": "แอนมัม",
   "en_brand": "Anmum",
@@ -68,8 +68,6 @@
         "vol": 1
       }
     ],
-    "nutrition": [],
-    "nutritional_value": [],
     "storage_th": [
       "ควรเก็บถุงอลูมิเนียมที่ยังไม่เปิดใช้ในอุณหภูมิปกติและเก็บไว้ในที่แห้งเย็น",
       "ไม่ควรบริโภคหากพบถุงอลูมิเนียมชำรุด",
@@ -92,8 +90,6 @@
     "usage_en": [
       "Add 4 scoops of Anmum Materna product (or approximately 37.5 g.) in 200 ml of warm water (approx. 50 degrees Celsius), stir well."
     ],
-    "warning_en": [],
-    "warning_th": [],
     "allergy_th": [
       "เลซิทินจากถั่วเหลือง"
     ],

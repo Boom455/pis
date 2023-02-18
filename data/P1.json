@@ -14,7 +14,7 @@
   "size_th": "77 กรัม",
   "barcode": "5998749142301",
   "type": 7,
-  "pets": {
+  "pets_food": {
     "fda_code": "02 09 62 04",
     "ingredient": [
       {
@@ -83,17 +83,13 @@
         "percent_serving_size": -1,
         "vol": -1
       }
-    ],
+  ],
   "storage_en": [
     "Should be stored in a dry and cool place."
   ],
     "storage_th": [
       "ควรเก็บในที่เย็นและแห้ง"
-    ],
-    "usage_en": [],
-    "usage_th": [],
-    "warning_en": [],
-    "warning_th": []
+  ]
   },
   "sign": {
     "rainforest_alliance_certified": false,

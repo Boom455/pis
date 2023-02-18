@@ -15,8 +15,8 @@
   "size_th": "45 ใบ",
   "size_en": "45 cards",
   "barcode": "8853474066360",
-  "type": 7,
-  "pets": {
+  "type": 12,
+  "pets_supplies": {
     "storage_th": [
       "เก็บให้พ้นมือเด็ก แสงแดด และเปลวไฟ"
     ],
@@ -36,9 +36,7 @@
     ],
     "warning_en": [
       "Do not use for packing or wrapping food."
-    ],
-    "allergy_th": [],
-    "allergy_en": []
+    ]
   },
   "sign": {
     "rainforest_alliance_certified": false,

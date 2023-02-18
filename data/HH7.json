@@ -13,7 +13,7 @@
   "size_th": "40 ม้วน",
   "size_en": "40 rolls",
   "barcode": "8850046114405",
-  "type": 3,
+  "type": 11,
   "household_essentials": {
     "storage_th": [
       "ควรเก็บในบริเวณแห้ง"
@@ -26,8 +26,7 @@
     ],
     "usage_en": [
       "Use to wipe clean after going to the toilet."
-    ],
-    "warning": []
+    ]
   },
   "sign": {
     "rainforest_alliance_certified": false,

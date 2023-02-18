@@ -85,7 +85,7 @@
                     '-' +
                     code.slice(8, 9) +
                     '-' +
-                    code.slice(9)
+                    code.slice(9,)
                 )
             }
 
@@ -100,6 +100,10 @@
                 'ผลิตภัณฑ์สำหรับสัตว์', // P 7
                 'อุปกรณ์ปรุงอาหาร', // SS 8
                 'แม่และเด็ก', // MB 9s
+                'ผลิตภัณฑ์สำหรับสัตว์', // P 10 suppl
+                'ของใช้ในบ้าน', // HH 11 no ingre 
+                'ผลิตภัณฑ์สำหรับสัตว์', // P 12
+                'อาหารและเครื่องดื่ม', // FD 13
             ]
 
             const color = [
@@ -111,8 +115,12 @@
                 '#FF00FF',// BP 5
                 '#FF9900',// HW 6
                 '#0000FF',// P 7
-                '#FFFF00',// SS 8
+                '#ECA325',// SS 8
                 '#FF5693',// MB 9s
+                '#0000FF',// P 10
+                '#00FFFF',// HH 11
+                '#0000FF',// P 12
+                '#6AA84F',// FD 13
             ]
 
             const params = new Proxy(new URLSearchParams(window.location.search), {
@@ -156,6 +164,32 @@
                                 ควรแบ่งบริโภค ${
                                     data.food_and_drink.nutrition.serving_per_container
                                 } ครั้ง
+                            </span>
+                            <div class="col-12" id="content-food-table">
+                                <table>
+                                    ${table.join('')}
+                                </table>
+                            </div>
+                        `,
+                        )
+                    }
+                    if (data.type === 13) {
+                        const table = []
+
+                        for (const row of data.food_and_drink?.nutritional_value || []) {
+                            table.push(`
+                            <tr>
+                                <td>${row.name_th}</td>
+                                <td align="right">${row.vol} kcal</td>
+                                <td align="right">${row.percent_serving_size} %</td>
+                            </tr>
+                            `)
+                        }
+                        replace(
+                            'content-food',
+                            `
+                            <span id="content-food-header">
+                                ไม่มีข้อมูลคุณค่าทางโภชนาการต่อ 1 หน่วย <br />
                             </span>
                             <div class="col-12" id="content-food-table">
                                 <table>
@@ -245,7 +279,7 @@
                                     <div class="card-body">
                                         <div><b>ส่วนประกอบสำคัญ </b> ${data.household_essentials.ingredient
                                             .map((row) => {
-                                                let str = row.name
+                                                let str = row.name_th
                                                 if (row.percent_serving_size >= 0) {
                                                     str = str + ` ${row.percent_serving_size}%`
                                                 }
@@ -259,7 +293,7 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size || 'ไม่มีข้อมูล'} </div>
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
                                         <div><b>เลขสารบนอาหาร (เลข อย.) </b> : 
                                             ${data.household_essentials.fda_code || 'ไม่มีข้อมูล'}
                                          </div>
@@ -268,13 +302,13 @@
                                 <div class="card my-1">
                                     <div class="card-body">
                                         <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
-                                            data.household_essentials.storage || 'ไม่มีข้อมูล'
+                                            data.household_essentials.storage_th || 'ไม่มีข้อมูล'
                                         } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
-                                            data.household_essentials.usage || 'ไม่มีข้อมูล'
+                                            data.household_essentials.usage_th || 'ไม่มีข้อมูล'
                                         } </div>
                                         <div><b>คำเตือน </b> : ${
-                                            data.household_essentials.warning || 'ไม่มีข้อมูล'
+                                            data.household_essentials.warning_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>
@@ -307,7 +341,7 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
+                                        <div><b>คำเตือน </b> : ${
                                             data.electronic.warning_th.join('<br />')
                                         } </div>
                                     </div>
@@ -357,11 +391,11 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
-                                            data.beauty_and_personal_care.warning_th || 'ไม่มีข้อมูล'
-                                        } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
                                             data.beauty_and_personal_care.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.beauty_and_personal_care.warning_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>
@@ -410,11 +444,11 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
-                                            data.health_and_wellness.warning_th || 'ไม่มีข้อมูล'
-                                        } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
                                             data.health_and_wellness.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.health_and_wellness.warning_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>
@@ -463,11 +497,11 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
-                                            data.pets_food.warning_th || 'ไม่มีข้อมูล'
-                                        } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
                                             data.pets_food.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.pets_food.warning_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>
@@ -492,6 +526,9 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
+                                        <div><b>ข้อมูลสำหรับผู้แพ้อาหาร </b> : ${data.seasoning_sauce.allergy_th.join(
+                                            ', ',
+                                        )}</div>
                                         <div><b>ส่วนประกอบสำคัญ </b> ${data.seasoning_sauce.ingredient
                                             .map((row) => {
                                                 let str = row.name_th
@@ -517,10 +554,13 @@
                                 <div class="card my-1">
                                     <div class="card-body">
                                         <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
-                                            data.seasoning_sauce.warning_th || 'ไม่มีข้อมูล'
+                                            data.seasoning_sauce.storage_th || 'ไม่มีข้อมูล'
                                         } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
                                             data.seasoning_sauce.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.seasoning_sauce.warning_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>
@@ -545,6 +585,9 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
+                                        <div><b>ข้อมูลสำหรับผู้แพ้อาหาร </b> : ${data.mom_and_baby.allergy_th.join(
+                                            ', ',
+                                        )}</div>
                                         <div><b>ส่วนประกอบสำคัญ </b> ${data.mom_and_baby.ingredient
                                             .map((row) => {
                                                 let str = row.name_th
@@ -570,10 +613,190 @@
                                 <div class="card my-1">
                                     <div class="card-body">
                                         <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
-                                            data.mom_and_baby.warning_th || 'ไม่มีข้อมูล'
+                                            data.mom_and_baby.storage_ || 'ไม่มีข้อมูล'
                                         } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
-                                            data.mom_and_baby.usage_th || 'ไม่มีข้อมูล'
+                                            data.mom_and_baby.usage_ || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.mom_and_baby.warning_ || 'ไม่มีข้อมูล'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 10:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>สินค้า </b> : ${data.th_name_short || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ยี่ห้อสินค้า </b> : ${data.th_brand || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ผู้ผลิต </b> : ${data.manufacture_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้นำเข้า </b> : ${data.importer_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้จัดจำหน่าย </b> : ${data.publisher_th || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ส่วนประกอบสำคัญ </b> ${data.pets_supplies.ingredient
+                                            .map((row) => {
+                                                let str = row.name_th
+                                                if (row.percent_serving_size >= 0) {
+                                                    str = str + ` ${row.percent_serving_size}%`
+                                                }
+                                                if (row.vol >= 0) {
+                                                    str = str + ` ${row.vol} กรัม`
+                                                }
+                                                return `<div class="px-2">${str}</div>`
+                                            })
+                                            .join('')}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>คำแนะนำการใช้ </b> : ${
+                                            data.pets_supplies.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.pets_supplies.warning_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 11:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>สินค้า </b> : ${data.th_name_short || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ยี่ห้อสินค้า </b> : ${data.th_brand || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ผู้ผลิต </b> : ${data.manufacture_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้นำเข้า </b> : ${data.importer_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้จัดจำหน่าย </b> : ${data.publisher_th || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
+                                            data.household_essentials.storage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำแนะนำการใช้ </b> : ${
+                                            data.household_essentials.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.household_essentials.warning_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 12:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>สินค้า </b> : ${data.th_name_short || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ยี่ห้อสินค้า </b> : ${data.th_brand || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ผู้ผลิต </b> : ${data.manufacture_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้นำเข้า </b> : ${data.importer_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้จัดจำหน่าย </b> : ${data.publisher_th || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>คำแนะนำการใช้ </b> : ${
+                                            data.pets_supplies.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.pets_supplies.warning_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 13:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>สินค้า </b> : ${data.th_name_short || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ยี่ห้อสินค้า </b> : ${data.th_brand || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ผู้ผลิต </b> : ${data.manufacture_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้นำเข้า </b> : ${data.importer_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้จัดจำหน่าย </b> : ${data.publisher_th || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ข้อมูลสำหรับผู้แพ้อาหาร </b> : ${data.food_and_drink.allergy_th.join(
+                                            ', ',
+                                        )}</div>
+                                        <div><b>ส่วนประกอบสำคัญ </b> ${data.food_and_drink.ingredient
+                                            .map((row) => {
+                                                let str = row.name_th
+                                                if (row.percent_serving_size >= 0) {
+                                                    str = str + ` ${row.percent_serving_size}%`
+                                                }
+                                                if (row.vol >= 0) {
+                                                    str = str + ` ${row.vol} กรัม`
+                                                }
+                                                return `<div class="px-2">${str}</div>`
+                                            })
+                                            .join('')}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
+                                        <div><b>เลขสารบนอาหาร (เลข อย.) </b> : 
+                                            ${formatFDA(data.food_and_drink.fda_code)}
+                                         </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
+                                            data.food_and_drink.storage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำแนะนำการใช้ </b> : ${
+                                            data.food_and_drink.usage_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>

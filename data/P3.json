@@ -15,8 +15,8 @@
   "size_th": "50 แผ่น",
   "size_en": "50 sheets",
   "barcode": "6932844603021",
-  "type": 7,
-  "pets": {
+  "type": 10,
+  "pets_supplies": {
     "ingredient": [
       {
         "name_en": "Water",

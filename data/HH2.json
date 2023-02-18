@@ -13,10 +13,8 @@
   "size_th": "12 คู่",
   "size_en": "12 pairs",
   "barcode": "8853474049479",
-  "type": 3,
+  "type": 11,
   "household_essentials": {
-    "storage_en":[],
-    "storage_th":[],
     "usage_th":[
       "ใช้สำหรับรับประทานอาหาร"
     ],

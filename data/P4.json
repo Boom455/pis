@@ -13,8 +13,8 @@
   "size_th": "8 ชิ้น",
   "size_en": "8 pieces",
   "barcode": "8857200077491",
-  "type": 7,
-  "pets": {
+  "type": 10,
+  "pets_supplies": {
     "ingredient": [
       {
         "name_en": "Synthetic Fabrics",
@@ -47,8 +47,6 @@
         "vol": -1
       }
     ],
-    "storage_en": [],
-    "storage_th": [],
     "usage_th": [
       "ใช้สำหรับสุนัข ที่กำลังฝึกขับถ่าย",
       "ใช้หลังผ่าตัด หรือได้รับบาดเจ็บ",
@@ -70,9 +68,7 @@
     ],
     "warning_en": [
       "Use after surgery."
-    ],
-    "allergy_en": [],
-    "allergy_th": []
+    ]
   },
   "sign": {
     "rainforest_alliance_certified": false,

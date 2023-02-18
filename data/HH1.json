@@ -23,19 +23,19 @@
         "name_en": "Ethoxylated Alcohol Sulfate",
         "name_th": "เกลือโมโนเอทาโนลามีนของเอทอกซีเลเต็ดแอลกอฮอล์ซัลเฟต",
         "percent_serving_size": 19.3,
-        "vol": 3
+        "vol": -1
       },
       {
         "name_en": "Linear Alkylbenzene Sulfonate",
         "name_th": "เกลือโมโนเอทาโนลามีนของลิเนียร์อัลคิลเบนซีนซัลโฟเนต",
         "percent_serving_size": 19.3,
-        "vol": 3
+        "vol": -1
       },
       {
         "name_en": "Ethoxylated Alcohol",
         "name_th": "เอทอกซีเลเต็ดแอลกอฮอล์",
         "percent_serving_size": 7.5,
-        "vol": 2
+        "vol": -1
       }
     ],
     "storage_en": [

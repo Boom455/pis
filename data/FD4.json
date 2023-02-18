@@ -106,7 +106,7 @@
         "name_en": "energy",
         "name_th": "พลังงาน",
         "percent_serving_size": 0,
-        "kcal": 0
+        "vol": 0
       },
       {
         "name_en": "sugar",
