@@ -151,8 +151,12 @@
       "Not medical food.",
       "Stop consuming when there is an abnormality."
     ],
-    "allergy_en": [],
-    "allergy_th": []
+    "allergy_en": [
+      "No Data"
+    ],
+    "allergy_th": [
+      "ไม่มีข้อมูล"
+    ]
   },
   "sign": {
     "rainforest_alliance_certified": false,

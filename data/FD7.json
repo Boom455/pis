@@ -86,7 +86,7 @@
         "name_en": "energy",
         "name_th": "พลังงาน",
         "percent_serving_size": 1,
-        "kcal": 335
+        "vol": 335
       },
       {
         "name_en": "sugar",

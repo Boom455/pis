@@ -75,8 +75,10 @@
     "storage_en": [
       "Store in a cool dry place away from direct sunlight."
     ],
-    "allergy_en": [],
-    "allergy_th": []
+    "allergy_en": [
+      "No Data"],
+    "allergy_th": [
+      "ไม่มีข้อมููล"]
   },
   "sign": {
     "rainforest_alliance_certified": false,

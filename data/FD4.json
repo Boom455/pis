@@ -128,8 +128,10 @@
       }
     ],
     "storage": [],
-    "allergy_en": [],
-    "allergy_th": []
+    "allergy_en": [
+      "No Data"],
+    "allergy_th": [
+      "ไม่มีข้อมููล"]
   },
   "sign": {
     "rainforest_alliance_certified": false,

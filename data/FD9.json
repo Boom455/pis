@@ -93,7 +93,7 @@
         "name_en": "energy",
         "name_th": "พลังงาน",
         "percent_serving_size": 3,
-        "kcal": 60
+        "vol": 60
       },
       {
         "name_en": "sugar",
@@ -122,8 +122,10 @@
       "Should be stored in a cool, dry place.",
       "Avoid the sunlight."
     ],
-    "allergy_en": [],
-    "allergy_th": []
+    "allergy_en": [
+      "No Data"],
+    "allergy_th": [
+      "ไม่มีข้อมููล"]
   },
   "sign": {
     "rainforest_alliance_certified": false,

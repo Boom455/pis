@@ -334,7 +334,7 @@
                                 <div class="card my-1">
                                     <div class="card-body">
                                         <div><b>Net Weight </b> : ${data.size_en || 'No data'} </div>
-                                        <div><b>FDA Code </b> : 
+                                        <div><b>Thai Industrial Standard </b> : 
                                             ${data.electronic.fda_code || 'No data'}
                                          </div>
                                     </div>
@@ -367,7 +367,7 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>Ingredients </b> ${data.beauty_and_personal_care.ingredient
+                                        <div><b>Ingredients </b> ${data.health_and_wellness.ingredient
                                             .map((row) => {
                                                 let str = row.name_en
                                                 if (row.percent_serving_size >= 0) {
@@ -420,7 +420,7 @@
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
-                                        <div><b>Ingredients </b> ${data.healen_and_wellness.ingredient
+                                        <div><b>Ingredients </b> ${data.health_and_wellness.ingredient
                                             .map((row) => {
                                                 let str = row.name_en
                                                 if (row.percent_serving_size >= 0) {
@@ -438,17 +438,17 @@
                                     <div class="card-body">
                                         <div><b>Net Weight </b> : ${data.size_en || 'No data'} </div>
                                         <div><b>FDA Code </b> : 
-                                            ${formatFDA(data.healen_and_wellness.fda_code)}
+                                            ${formatFDA(data.health_and_wellness.fda_code)}
                                          </div>
                                     </div>
                                 </div>
                                 <div class="card my-1">
                                     <div class="card-body">
                                         <div><b>Usage </b> : ${
-                                            data.healen_and_wellness.usage_en || 'No data'
+                                            data.health_and_wellness.usage_en || 'No data'
                                         } </div>
                                         <div><b>Warning </b> : ${
-                                            data.healen_and_wellness.warning_en || 'No data'
+                                            data.health_and_wellness.warning_en || 'No data'
                                         } </div>
                                     </div>
                                 </div>
