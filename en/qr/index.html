@@ -54,7 +54,7 @@
                         const data = JSON.parse(result.data)
                         console.log(data)
                         if(data.system && data.system === 'pis'){
-                            window.location.href = `/en/product?key=${('' + data.key).toUpperCase()}`
+                            window.location.href = `/en/product/?key=${('' + data.key).toUpperCase()}`
                         }else{
                             throw new Error('NOT THIS SYSTEM')
                         }
