@@ -104,6 +104,8 @@
                 'Household Essentials', // HH 11
                 'Pets', // P 12
                 'Food and Drinks', // FD 13
+                'Games', // G 14
+                'Household Essentials' // HH 15
             ]
 
             const color = [
@@ -121,6 +123,9 @@
                 '#00FFFF',// HH 11
                 '#0000FF',// P 12
                 '#6AA84F',// FD 13
+                '#030303',// G 14
+                '#00FFFF',// FD 15
+
             ]
 
             const params = new Proxy(new URLSearchParams(window.location.search), {
@@ -797,6 +802,79 @@
                                         } </div>
                                         <div><b>Usage </b> : ${
                                             data.food_and_drink.usage_en || 'No data'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 14:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Product </b> : ${data.en_name_short || 'No data'}</div>
+                                        <div><b>Brand </b> : ${data.en_brand || 'No data'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Manufacture </b> : ${data.manufacture_en || 'No data'}</div>
+                                        <div><b>Publisher </b> : ${data.publisher_en || 'No data'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Net Weight </b> : ${data.size_en || 'No data'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Storage </b> : ${
+                                            data.games.storage_en || 'No data'
+                                        } </div>
+                                        <div><b>Usage </b> : ${
+                                            data.games.usage_en || 'No data'
+                                        } </div>
+                                        <div><b>Warning </b> : ${
+                                            data.games.warning_en || 'No data'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 15:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Product </b> : ${data.en_name_short || 'No data'}</div>
+                                        <div><b>Brand </b> : ${data.en_brand || 'No data'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Manufacture </b> : ${data.manufacture_en || 'No data'}</div>
+                                        <div><b>Importer </b> : ${data.importer_en || 'No data'}</div>
+                                        <div><b>Publisher </b> : ${data.publisher_en || 'No data'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Net Weight </b> : ${data.size_en || 'No data'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>Storage </b> : ${
+                                            data.household_essentials.storage_en || 'No data'
+                                        } </div>
+                                        <div><b>Usage </b> : ${
+                                            data.household_essentials.usage_en || 'No data'
+                                        } </div>
+                                        <div><b>Warning </b> : ${
+                                            data.household_essentials.warning_en || 'No data'
                                         } </div>
                                     </div>
                                 </div>

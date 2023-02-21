@@ -104,6 +104,8 @@
                 'ของใช้ในบ้าน', // HH 11 no ingre 
                 'ผลิตภัณฑ์สำหรับสัตว์', // P 12
                 'อาหารและเครื่องดื่ม', // FD 13
+                'เกม', // HH 14 no ingre 
+                'ของใช้ในบ้าน' // G 15
             ]
 
             const color = [
@@ -121,6 +123,8 @@
                 '#00FFFF',// HH 11
                 '#0000FF',// P 12
                 '#6AA84F',// FD 13
+                '#030303',// HH 14
+                '#00FFFF',// G 15
             ]
 
             const params = new Proxy(new URLSearchParams(window.location.search), {
@@ -797,6 +801,80 @@
                                         } </div>
                                         <div><b>คำแนะนำการใช้ </b> : ${
                                             data.food_and_drink.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 14:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>สินค้า </b> : ${data.th_name_short || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ยี่ห้อสินค้า </b> : ${data.th_brand || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ผู้ผลิต </b> : ${data.manufacture_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้นำเข้า </b> : ${data.importer_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้จัดจำหน่าย </b> : ${data.publisher_th || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
+                                            data.games.storage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำแนะนำการใช้ </b> : ${
+                                            data.games.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.games.warning_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                    </div>
+                                </div>
+                            `,
+                            ]
+                            break
+                        case 15:
+                            content = [
+                                `
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>สินค้า </b> : ${data.th_name_short || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ยี่ห้อสินค้า </b> : ${data.th_brand || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ผู้ผลิต </b> : ${data.manufacture_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้นำเข้า </b> : ${data.importer_th || 'ไม่มีข้อมูล'}</div>
+                                        <div><b>ผู้จัดจำหน่าย </b> : ${data.publisher_th || 'ไม่มีข้อมูล'}</div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>น้ำหนัก/ปริมาตรสุทธิ </b> : ${data.size_th || 'ไม่มีข้อมูล'} </div>
+                                    </div>
+                                </div>
+                                <div class="card my-1">
+                                    <div class="card-body">
+                                        <div><b>ข้อแนะนำการเก็บรักษา </b> : ${
+                                            data.household_essentials.storage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำแนะนำการใช้ </b> : ${
+                                            data.household_essentials.usage_th || 'ไม่มีข้อมูล'
+                                        } </div>
+                                        <div><b>คำเตือน </b> : ${
+                                            data.household_essentials.warning_th || 'ไม่มีข้อมูล'
                                         } </div>
                                     </div>
                                 </div>

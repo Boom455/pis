@@ -6,20 +6,34 @@
   "en_name_short": "Stain remover",
   "th_brand": "ชุบบริค",
   "en_brand": "Chubbric",
-  "manufacture_th": "",
-  "manufacture_en": "",
-  "publisher_th": "",
-  "publisher_en": "",
-  "size_th": "",
-  "size_en": "",
+  "manufacture_th": "ชุบบริค(ประเทศไทย)",
+  "manufacture_en": "Chubbric Thailand",
+  "publisher_th": "ชุบบริค(ประเทศไทย)",
+  "publisher_en": "Chubbric Thailand",
   "barcode": "",
-  "type": 0,
-  "other": {
-    "usage_en": [
-      "For removing stain"
+  "type": 15,
+  "household_essentials": {
+    "storage_en": [
+      "Keep the product in its original box away from children, food, and pets.",
+      "Store in a cool and dry place away from the sunlight."
+    ],
+    "storage_th": [
+      "เก็บในที่มิดชิด ห่างจากเด็ก อาหาร และสัตว์เลี้ยง",
+      "เก็บผลิตภัณฑ์ในที่เย็นและแห้ง ให้ห่างจากแสงแดด"
     ],
     "usage_th": [
-      "ใช้สำหรับขจัดคราบ"
+      "ใช้หลังเลอะคราบทันที เพื่อประสิทธิภาพสูงสุด"
+    ],
+    "usage_en": [
+      "Use immediately after staining. for maximum efficiency."
+    ],
+    "warning_en": [
+      "Do not eat.",
+      "Be careful not to get it in your eyes."
+    ],
+    "warning_th": [
+      "ห้ามรับประทาน",
+      "ระวังอย่าให้เข้าตา"
     ]
 
   },

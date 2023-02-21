@@ -105,6 +105,11 @@
         "en": "Zilk Kotton"
     },
     {
+        "key": "OT1",
+        "th": "ชุบบริค อุปกรณ์ขจัดคราบ",
+        "en": "Chubbric stain remover"
+    },
+    {
         "key": "HW1",
         "th": "เวอร่าสกิน เมลา 5",
         "en": "Verraskin Mela-5"
@@ -128,11 +133,6 @@
         "key": "MB3",
         "th": "แอปเปิ้ลมังกี้คุกกี้ผสมแครอท",
         "en": "Applemonkey Cookies with carrot "
-    },
-    {
-        "key": "OT1",
-        "th": "ชุบบริค อุปกรณ์ขจัดคราบ",
-        "en": "Chubbric stain remover"
     },
     {
         "key": "P1",
@@ -168,5 +168,10 @@
         "key": "SS2",
         "th": "เต้าเจี้ยวสูตร 1 ตราง่วนเชียง",
         "en": "Fermented Soybean Formula 1 Nguan Chiang Brand"
+    },
+    {
+        "key": "G1",
+        "th": "หนีผีโอแปง 0.5",
+        "en": "Nhee Phee O'Pang 0.5"
     }
 ]
