@@ -1,0 +1,33 @@
+{
+    "product": "OT2",
+    "th_name": "ที่จอดรถพลังงานไฟฟ้าบนคอนโด",
+    "th_name_short": "ที่จอดรถพลังงานไฟฟ้าบนคอนโด",
+    "en_name": "EV Charger on condominium",
+    "en_name_short": "EV Charger on condominium",
+    "th_brand": "มัลติพอร์ต ชาร์จเจอร์",
+    "en_brand": "Multiport Charger",
+    "manufacture_th": "ผ่านเถอะครับจ้า",
+    "manufacture_en": "Pan The Krub Ja",
+    "barcode": "",
+    "type": 0,
+    "other": {
+      "storage_en": [
+        ""
+      ],
+      "storage_th": [
+        ""
+      ],
+      "usage_th": [
+        ""
+      ],
+      "usage_en": [
+        ""
+      ],
+      "warning_en": [
+        ""
+      ],
+      "warning_th": [
+        ""
+      ]
+    }
+  }

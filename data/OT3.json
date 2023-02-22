@@ -1,0 +1,43 @@
+{
+    "product": "OT3",
+    "th_name": "ทางข้ามถนนปลอดภัย",
+    "th_name_short": "ทางข้ามถนนปลอดภัย",
+    "en_name": "Safety Crosswalk",
+    "en_name_short": "Safety Crosswalk",
+    "th_brand": "มุมทำงาน",
+    "en_brand": "Work Corner",
+    "manufacture_th": "มุมทำงานสร้างสรรค์",
+    "manufacture_en": "Innovative Work Corner",
+    "barcode": "",
+    "type": 0,
+    "other": {
+      "usage_en": [
+        "Obey traffic laws such as looking left and right for incoming cars.",
+        "Please step in around the area of the bollards to access the remaining crossing time in the system.",
+        "Please walk to the other side quickly or stop crossing the road when the lightings are flashing out, which can be known by walking in the area of the bollards.",
+        "Please do not damage or tinker the system. Please report the issue when the system malfunctions."
+      ],
+      "usage_th": [
+        "สำหรับผู้เดินข้ามถนน โปรดมองยานพาหนะทั้งสองฝั่งของช่องทางจราจรก่อนข้ามถนน",
+        "เมื่อกำลังจะข้ามแต่ระบบทำงานอยู่สามารถเดินไปที่บริเวณเสาเพื่อใช้เวลาที่ยังเหลืออยู่ในระบบ",
+        "โปรดรีบเดินข้ามถนนหรือหยุดข้ามเมื่อระบบกำลังกระพิบดับในกรณีหมดเวลาข้ามถนน",
+        "โปรดอย่าทำลายอุปกรณ์เสาหรือไฟโดยตั้งใจ เมื่อชำรุดให้แจ้งเสีย"
+      ],
+      "warning_th": [
+        "ห้ามข้ามถนนโดยไม่มองรถทั้งสองฝั่งของช่องจราจร ",
+        "ห้ามทำกิจกรรมที่รบกวนในขณะข้ามถนน ",
+        "ห้ามยืนนิ่งตรงกลางถนน",
+        "ห้ามเดินสลับวิ่งในขณะข้ามถนน",
+        "ห้ามข้ามถนนในแนวเฉียงกับทิศทางของเส้นม้าลาย",
+        "ห้ามดัดแปลงหรือนำสิ่งของบดบังเซนเซอร์ ระบบไฟ ระบบ microcontroller หรือตัวเสาเพื่อทำให้เสื่อมสภาพ "
+      ],
+      "warning_en": [
+        "Do not cross the road without checking both sides of incoming traffic.",
+        "Do not cause any disturbance while crossing the road.",
+        "Do not stand still on the crosswalk.",
+        "Do not change crossing pace rapidly.",
+        "Do not cross the road diagonally.",
+        "Do not modify or block the sensors, light systems, microcontrollers, and the bollards to make the system malfunction."
+      ]
+    }
+  }

@@ -1,0 +1,57 @@
+{
+  "product": "HH8",
+  "th_name": "ชุบบริค อุปกรณ์ขจัดคราบ",
+  "th_name_short": "อุปกรณ์ขจัดคราบ ",
+  "en_name": "Chubbric stain remover", 
+  "en_name_short": "Stain remover",
+  "th_brand": "ชุบบริค",
+  "en_brand": "Chubbric",
+  "manufacture_th": "ชุบบริค(ประเทศไทย)",
+  "manufacture_en": "Chubbric Thailand",
+  "publisher_th": "ชุบบริค(ประเทศไทย)",
+  "publisher_en": "Chubbric Thailand",
+  "barcode": "",
+  "type": 15,
+  "household_essentials": {
+    "storage_en": [
+      "Keep the product in its original box away from children, food, and pets.",
+      "Store in a cool and dry place away from the sunlight."
+    ],
+    "storage_th": [
+      "เก็บในที่มิดชิด ห่างจากเด็ก อาหาร และสัตว์เลี้ยง",
+      "เก็บผลิตภัณฑ์ในที่เย็นและแห้ง ให้ห่างจากแสงแดด"
+    ],
+    "usage_th": [
+      "ใช้หลังเลอะคราบทันที เพื่อประสิทธิภาพสูงสุด"
+    ],
+    "usage_en": [
+      "Use immediately after staining. for maximum efficiency."
+    ],
+    "warning_en": [
+      "Do not eat.",
+      "Be careful not to get it in your eyes."
+    ],
+    "warning_th": [
+      "ห้ามรับประทาน",
+      "ระวังอย่าให้เข้าตา"
+    ]
+
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}
