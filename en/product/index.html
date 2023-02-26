@@ -48,7 +48,7 @@
                         <div class="col col-6" id="content-thumbnail"> </div>
                         <div class="col col-6 my-3" id="content-food"> </div>
                         <div class="col col-12">
-                            <div class="card">
+                            <div class="card" id="content-icon">
                                 <div class="card-body" id="content-icon">
 
                                 </div>
@@ -147,7 +147,7 @@
                     )
                     replace(
                         'content-icon',
-                        `<img id="content-thumbnail" src="/img/product/${data.product}-bottom.png" width="100%" />`,
+                        `<img id="content-icon" src="/img/product/${data.product}-bottom.png" onerror="removeElement()" width="100%" />`,
                     )
                     if (data.type === 1) {
                         const table = []
@@ -820,6 +820,7 @@
                                 <div class="card my-1">
                                     <div class="card-body">
                                         <div><b>Manufacture </b> : ${data.manufacture_en || 'No data'}</div>
+                                        <div><b>Importer </b> : ${data.importer_en || 'No data'}</div>
                                         <div><b>Publisher </b> : ${data.publisher_en || 'No data'}</div>
                                     </div>
                                 </div>
@@ -1004,5 +1005,10 @@
             integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
             crossorigin="anonymous"
         ></script>
+        <script>
+            function removeElement() {
+              document.getElementById("content-icon").style.display = "none";
+            }
+            </script>
     </body>
 </html>
