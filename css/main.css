@@ -41,12 +41,15 @@
     background-color: rgb(29, 45, 95) !important;
 }
 #header {
-    background-color: rgb(29, 45, 95);
+    background-color: #f5efd5;
     padding: 1em;
     color: #ffffff;
+    vertical-align: middle;
+    height: 317px;
 }
 #video {
-    background-color: #FFE3B3;
+    background-color: #f5efd5;
+    height: 450px;
 }
 #body {
     height: 280px;
@@ -61,211 +64,164 @@
     justify-content: center;
     align-items: center;
 }
-#qrbody {
-    background-color: rgb(255, 255, 255);
-    padding: 1em;
-    color: #ffffff;
-    height: 650px;
-}
-#qrbottom {
-    height: 250px;
-    border: 5px #111111;
-}
-#content-qrcode {
+#logo_medbon {
+    /*padding-left: 32.985px;
+    padding-top: 65px;*/
+    align-content: center;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 65px;
 }
-#content-list {
-    overflow-y: scroll;
+#txtbox {
+    border-radius: 10px;
+    border: solid 1.5px #15234b;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+    margin: 5px;
+    width: 300px;
 }
-
-.btn-group a {
-    border: 1px solid rgb(255, 211, 50);
-    padding: 10px 24px;
+#showpass {
+    size: 10px;
+    size-adjust: 10px;
+    tab-size: 10px;
+    block-size: 10px;
+}
+#loginbtn {
+    background-color: #01acc8;
+    color: #fff;
+    border-radius: 10px;
+    border-width: 0;
+    text-align: center;
+    margin: 0 90.2px 0 90.2px;   /*top left bottom right*/
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 300px;
+    padding: 10px 0 10px 0;
+    font-size: 20px;
+}
+#notreg {
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+#reg {
+    text-decoration: underline;
+    background: none;
+    border: none;
     cursor: pointer;
-    float: left;
-    height: 70px;
-    font-size: 25px;
-    padding: 15px 0 0 0;
-    width: 100%;
 }
-
-#btnsr_qr {
-    background-color: #ffffff;
-    color: black;
+#header1 {
+    height: 130px;
+    background-color: #01acc8;
+    border: solid 2px #01acc8;
+    border-radius: 0px 0px 60px 60px;
 }
-
-#btnqr_qr {
-    background-color: rgb(29, 45, 95);
-    color: white;
+#video1 {
+    height: 669px;
+    background-color: #f5efd5;
 }
-
-#animated input[type='text'] {
-    width: 300px;
-    box-sizing: border-box;
-    border: 2px solid #000000;
-    border-radius: 4px;
-    font-size: 16px;
-    background-color: rgb(255, 255, 255);
-    padding: 12px 20px 12px 40px;
-    -webkit-transition: width 0.5s ease-out;
-    transition: width 0.5s ease-out;
+#booking {
+    font-size: 30px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 20px;
+    color: #fff;
 }
-
-#animated input[type='text']:focus {
-    width: 300px;
+#bookbox {
+    border-radius: 10px;
+    border: solid 1.5px #15234b;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+    margin: 10px 5px 5px 5px;
+    width: 420px;
 }
-
-#animated i {
-    position: relative;
-    left: 33px;
+#bookdaybox {
+    border-radius: 10px;
+    border: solid 1.5px #15234b;
+    padding: 10px;
+    text-align: left;
+    margin: 5px 5px;
+    width: 420px;
+    height: 280px;
 }
-
-.fa-search {
-    padding: 0 0 0 0;
-    margin: 0 0px 0 0;
+#symptombox {
+    border-radius: 7px;
+    border: solid 1.5px #15234b;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+    margin: 10px 5px 5px 5px;
+    width: 420px;
 }
-
-#ritter_header {
-    background-color: #6aa84f;
-    padding: 1em;
-    margin: 0;
+#numberbox {
+    border-radius: 7px;
+    border: solid 1.5px #15234b;
+    padding: 5px 10px 10px 20px;
+    text-align: left;
+    margin: 10px 5px 5px 5px;
+    width: 420px;
 }
-
-#ritter_header_small {
-    font-size: 22px;
-    color: #ffffff;
+#jongqbtn {
+    background-color: #01acc8;
+    color: #fff;
+    border-radius: 7px;
+    border-width: 0;
+    text-align: center;
+    margin: 0 30.2px 0 30.2px;   /*top left bottom right*/
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 420px;
+    font-size: 20px;
 }
-
-#ritter_header_small_small {
-    font-size: 14px;
-    color: #ffffff;
+#bottom1 {
+    background-color: #01acc8;
+    color: #fff;
+    border-radius: 7px;
+    border-width: 0;
+    text-align: center;
+    margin: 0 30.2px 0 30.2px;   /*top left bottom right*/
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 420px;
+    font-size: 20px;
 }
-
-#panasonic_header_text_picture {
-    margin: auto auto;
+#menu {
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #01acc8;
+    padding: 10px 0 10px 0;
+    margin: 50px 30.2px 0 30.2px;
+    border-radius: 50px;
+    width: 420px;
 }
-
-#panasonic_header {
-    background-color: #ff0000;
-    padding: 1em;
-    margin: 0;
+#reginfbox {
+    border-radius: 10px;
+    border: solid 1.5px #15234b;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+    margin: 5px 5px 5px 5px;
+    width: 420px;
 }
-
-#baby_bright_header {
-    background-color: #ff00ff;
-    padding: 1em;
-    margin: 0;
+#reginfbox2 {
+    border-radius: 10px;
+    border: solid 1.5px #15234b;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+    margin: 5px 5px 5px 5px;
+    width: 205px;
 }
-
-#ritter_header2 {
-    font-size: 12px;
-    margin-top: 1em;
-}
-
-#ritter_header2_right_all {
-    margin-top: 1em;
-    margin-bottom: 1em;
-}
-
-#tarang {
-    margin-left: 2em;
-    font-size: 12px;
-}
-
-#tarangen {
-    margin-left: 2em;
-    font-size: 11px;
-}
-
-#bodyrt1 {
-    border-top: solid 1.75px #000000;
-    border-bottom: solid 1px #000000;
-    padding-top: 10px;
-}
-
-#bodyrt1_text {
-    font-size: 12px;
-    margin-left: 20px;
-}
-
-#bodyrt2 {
-    border-top: solid 1px #000000;
-    border-bottom: solid 1px #000000;
-    padding-top: 10px;
-}
-
-#bodyrt2_text {
-    font-size: 12px;
-    margin-left: 20px;
-}
-#bodypana2 {
-    border-top: solid 1px #000000;
-    border-bottom: solid 0px #000000;
-    padding-top: 10px;
-}
-#body_baby_bright {
-    border-top: solid 1px #000000;
-    border-bottom: solid 1px #000000;
-    padding-top: 10px;
-}
-#bodyrt3 {
-    border-top: solid 1px #000000;
-    border-bottom: solid 1px #000000;
-    padding-top: 10px;
-}
-#bodyrt3_text {
-    font-size: 12px;
-    margin-left: 20px;
-}
-#bodyrt4 {
-    border-top: solid 1px #000000;
-    border-bottom: solid 1.75px #000000;
-    padding-top: 10px;
-}
-#bodybaby3 {
-    border-top: solid 1px #000000;
-    border-bottom: solid 1px #000000;
-    padding-top: 10px;
-}
-#bodyrt4_text {
-    font-size: 12px;
-    margin-left: 20px;
-}
-#red_box {
-    height: 20 px;
-    width: 20 px;
-    border: solid 1px #000000;
-    padding-left: 10px;
-    margin: 125px auto 125px auto;
-}
-#qrcrop_index {
-    height: 20 px;
-    width: 20 px;
-    border: solid 0px #000000;
-    padding-left: 10px;
-}
-#sren_index {
-    height: 20 px;
-    width: 20 px;
-    border: solid 0px #000000;
-    padding-left: 10px;
-}
-#panasonic_bottom {
-    margin: auto auto;
-    margin-top: 20px;
-}
-#panasonic_header_text_picture {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-#baby_bottom {
-    margin: auto auto;
-    margin-top: 20px;
-}
-#baby_bright_bottom {
-    margin: auto auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+#header2 {
+    height: 799px;
+    background-color: #f5efd5;
 }
