@@ -1,0 +1,125 @@
+{
+  "product": "FD9",
+  "th_name": "แฟนต้ากลิ่นสตรอเบอร์รี",
+  "th_name_short": "น้ำหวานกลิ่นสตรอเบอร์รี",
+  "en_name": "Fanta Soft Drink Strawberry",
+  "en_name_short": "Soft Drink Strawberry",
+  "th_brand": "แฟนต้า",
+  "en_brand": "Fanta",
+  "manufacture_th": "บริษัท หาดทิพย์ จำกัด (มหาชน)",
+  "publisher_th": "บริษัท หาดทิพย์ จำกัด (มหาชน)",
+  "size_th": "325 มิลลิลิตร",
+  "barcode": "8851959132173",
+  "type": 1,
+  "food_and_drink": {
+    "fda_code": "8410785610005",
+    "ingredient": [
+      {
+        "name": "sugar",
+        "percent_serving_size": 4.5,
+        "vol": 4
+      },
+      {
+        "name": "carbon dioxide",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "acidity regulatort",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "preservative",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "sucralose",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "flavoring agent",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "nutrition": {
+      "serving_size": "1 กระป๋อง (325 มล.)",
+      "serving_per_container": "1",
+      "energy_serving_size": "60 กิโลแคลอรี",
+      "dv": [
+        {
+          "name": "fat",
+          "percent_serving_size": 0,
+          "vol": 0
+        },
+        {
+          "name": "protein",
+          "percent_serving_size": -1,
+          "vol": 0
+        },
+        [
+          {
+            "name": "carbohydrate",
+            "percent_serving_size": 5,
+            "vol": 16
+          },
+          {
+            "name": "sugar",
+            "percent_serving_size": -1,
+            "vol": 15
+          }
+        ],
+        {
+          "name": "sodium",
+          "percent_serving_size": 2,
+          "vol": 35
+        }
+      ]
+    },
+    "nutritional_value": [
+      {
+        "name": "energy",
+        "percent_serving_size": 3,
+        "kcal": 60
+      },
+      {
+        "name": "sugar",
+        "percent_serving_size": 23,
+        "vol": 15
+      },
+      {
+        "name": "fat",
+        "percent_serving_size": 0,
+        "vol": 0
+      },
+      {
+        "name": "sodium",
+        "percent_serving_size": 2,
+        "vol": 0.035
+      }
+    ],
+    "storage": [
+      "ควรเก็บในที่เย็นและแห้ง",
+      "หลีกเลี่ยงแสงแดด"
+    ],
+    "allergy": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "vegan": false,
+    "halal": false,
+    "recycle": true,
+    "gluten_free": false,
+    "fat_free": false,
+    "household_essentials": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false
+  }
+}

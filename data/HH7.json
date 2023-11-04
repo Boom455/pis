@@ -1,0 +1,40 @@
+{
+  "product": "HH7",
+  "th_name": "ซิงค์ คอตตอน",
+  "th_name_short": "กระดาษชำระ",
+  "en_name": "Zilk Kotton",
+  "en_name_short": "Toilet Paper",
+  "th_brand": "ซิงค์",
+  "en_brand": "Zilk",
+  "manufacture_th": "บริษัท เบอร์ลี่ ยุคเกอร์ เซลล็อกซ์ จำกัด",
+  "publisher_th": "บริษัท เบอร์ลี่ ยุคเกอร์ จำกัด (มหาชน)",
+  "size_th": "40 ม้วน",
+  "barcode": "8850046114405",
+  "type": 3,
+  "household_essentials": {
+    "storage": [
+      "ควรเก็บในบริเวณแห้ง"
+    ],
+    "usage": [
+      "ใช้เช็ดทำความสะอาดหลังการเข้าห้องน้ำ"
+    ],
+    "warning": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": true,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}

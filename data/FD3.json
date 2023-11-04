@@ -1,0 +1,144 @@
+{
+  "product": "FD3",
+  "th_name": "เซ็ปอโลเวร่าเครื่องดื่มว่านหางจระเข้ผสมกลิ่นองุ่น",
+  "th_name_short": "เครื่องดื่มว่านหางจระเข้ผสมกลิ่นองุ่น",
+  "en_name": "Sappe Vera Drink Mixed Grape Frovour",
+  "en_name_short": "Aloe Vera Drink Mixed Grape Frovour",
+  "th_brand": "ตราเซ็ป อโลเวร่า ดริ้งค์",
+  "en_brand": "Sappe Aloe Vera Drink Brand",
+  "manufacture_th": "บริษัท เซ็ปเป้ จำกัด (มหาชน)",
+  "publisher_th": "บริษัท เซ็ปเป้ จำกัด (มหาชน)",
+  "size_th": "365 มิลลิลิตร",
+  "barcode": "8850389109076",
+  "type": 1,
+  "food_and_drink": {
+    "fda_code": "1320255520356",
+    "ingredient": [
+      {
+        "name": "white grape juice",
+        "percent_serving_size": 10,
+        "vol": 5
+      },
+      {
+        "name": "aloe vera cube",
+        "percent_serving_size": 10,
+        "vol": 5
+      },
+      {
+        "name": "sugar",
+        "percent_serving_size": 3.6,
+        "vol": 3
+      },
+      {
+        "name": "fructose",
+        "percent_serving_size": 0.4,
+        "vol": 2
+      },
+      {
+        "name": "food additives",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "preservative",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "sweeteners",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "sucralose",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "nutrition": {
+      "serving_size": "1 ขวด (365 มล.)",
+      "serving_per_container": "1",
+      "energy_serving_size": "80 กิโลแคลอรี",
+      "-1 ": [
+        {
+          "name": "fat",
+          "percent_serving_size": 0,
+          "vol": 0
+        },
+        {
+          "name": "protein",
+          "percent_serving_size": -1,
+          "vol": 0
+        },
+        [
+          {
+            "name": "carbohydrate",
+            "percent_serving_size": 7,
+            "vol": 20
+          },
+          {
+            "name": "sugar",
+            "percent_serving_size": -1,
+            "vol": 18
+          }
+        ],
+        {
+          "name": "sodium",
+          "percent_serving_size": 5,
+          "vol": 0.095
+        },
+        {
+          "name": "calcium",
+          "percent_serving_size": 8,
+          "vol": -1
+        }
+      ]
+    },
+    "nutritional_value": [
+      {
+        "name": "energy",
+        "percent_serving_size": 4,
+        "kcal": 80
+      },
+      {
+        "name": "sugar",
+        "percent_serving_size": 28,
+        "vol": 18
+      },
+      {
+        "name": "fat",
+        "percent_serving_size": 0,
+        "vol": 0
+      },
+      {
+        "name": "sodium",
+        "percent_serving_size": 5,
+        "vol": 0.095
+      }
+    ],
+    "storage": [
+      "แช่เย็น",
+      "เขย่าก่อนเปิด",
+      "เก็บไว้ในตู้เย็นหลังเปิดแล้ว"
+    ],
+    "warning": [
+      "เด็กไม่ควรรับประทาน ไม่ใช่อาหารทางการแพทย์ หยุดบริโภคเมื่อมีอาการผิดปกติ"
+    ],
+    "allergy": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "vegan": true,
+    "halal": true,
+    "recycle": true,
+    "gluten_free": false,
+    "fat_free": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false
+  }
+}

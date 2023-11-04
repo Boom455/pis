@@ -1,0 +1,88 @@
+{
+  "product": "FD6",
+  "th_name": "ไรซ์ ซุเปอร์ เคอร์เนล บาสมาติ ",
+  "th_name_short": "ข้าวบาสมาติ",
+  "en_name": "Rice Super Kernel Basmati Anmol Brand",
+  "en_name_short": "Basmati rice",
+  "th_brand": "ตราอันมล",
+  "en_brand": "Anmol",
+  "manufacture_th": "บริษัท พรอสเพอร์ เอ็นเตอร์ไพรส์เซส จำกัด",
+  "publisher_th": "บริษัท พรอสเพอร์ เอ็นเตอร์ไพรส์เซส จำกัด",
+  "size_th": "1000 กรัม",
+  "barcode": "9431267008798",
+  "type": 1,
+  "food_and_drink": {
+    "fda_code": "1031236050030",
+    "ingredient": [
+      {
+        "name": "basmati rice",
+        "percent_serving_size": 100,
+        "vol": 8
+      }
+    ],
+    "nutrition": {
+      "serving_size": "1 แพ็ค (125 กรัม)",
+      "serving_per_container": "8",
+      "energy_serving_size": "756 กิโลแคลอรี",
+      "dv": [
+        [
+          {
+            "name": "fat",
+            "percent_serving_size": -1,
+            "vol": 2.4
+          },
+          {
+            "name": "saturate",
+            "percent_serving_size": -1,
+            "vol": 0.6
+          }
+        ],
+        {
+          "name": "protein",
+          "percent_serving_size": -1,
+          "vol": 3.6
+        },
+        [
+          {
+            "name": "carbohydrate",
+            "percent_serving_size": -1,
+            "vol": 35.2
+          },
+          {
+            "name": "sugar",
+            "percent_serving_size": -1,
+            "vol": 0.1
+          }
+        ],
+        {
+          "name": "sodium",
+          "percent_serving_size": 5,
+          "vol": 0.095
+        },
+        {
+          "name": "fibre",
+          "percent_serving_size": -1,
+          "vol": 0.00023
+        }
+      ]
+    },
+    "nutritional_value": [],
+    "storage": ["เก็บในที่แห้งและเย็นให้พ้นจากแสงแดด"],
+    "allergy": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "vegan": false,
+    "halal": false,
+    "recycle": false,
+    "gluten_free": false,
+    "fat_free": false,
+    "iso_9001": true,
+    "export_quality": true,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false
+  }
+}
