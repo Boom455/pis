@@ -1,0 +1,131 @@
+{
+  "product": "FD7",
+  "th_name": "มันฝรั่งเเท้ทอดกรอบชนิดแผ่นเรียบรสซอลธ์แอนด์ซาวร์",
+  "th_name_short": "เทสโต้รสซอลธ์แอนด์ซาวร์",
+  "en_name": "Tasto Salt and Sour Flavored Potato Chips Flat out",
+  "en_name_short": "Tasto Salt and Sour Flavored",
+  "th_brand": "เทสโต",
+  "en_brand": "Tasto",
+  "manufacture_th": "บริษัท เบอร์ลี่ ยุคเกอร์ ฟู้ดส์ จำกัด",
+  "publisher_th": "บริษัท เบอร์ลี่ ยุคเกอร์ จำกัด (มหาชน)",
+  "size_th": "11 กรัม",
+  "barcode": "8851004416050",
+  "type": 1,
+  "food_and_drink": {
+    "fda_code": "1111152620031",
+    "ingredient": [
+      {
+        "name": "potato",
+        "percent_serving_size": 90,
+        "vol": 7
+      },
+      {
+        "name": "palm olein",
+        "percent_serving_size": 8,
+        "vol": 2
+      },
+      {
+        "name": "flavoring agent",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name": "Food additive",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+    "nutrition": {
+      "serving_size": "1 ซอง (11 กรัม)",
+      "serving_per_container": "1",
+      "energy_serving_size": "60 กิโลแคลอรี",
+      "dv": [
+        {
+          "name": "fat",
+          "percent_serving_size": 6,
+          "vol": 4
+        },
+        {
+          "name": "cholesterol",
+          "percent_serving_size": 2,
+          "vol": 0.005
+        },
+        {
+          "name": "protein",
+          "percent_serving_size": -1,
+          "vol": 1
+        },
+        [
+          {
+            "name": "carbohydrate",
+            "percent_serving_size": 2,
+            "vol": 6
+          },
+          {
+            "name": "sugar",
+            "percent_serving_size": -1,
+            "vol": 0
+          }
+        ],
+        {
+          "name": "sodium",
+          "percent_serving_size": 3,
+          "vol": 65
+        }
+      ]
+    },
+    "nutritional_value": [
+      {
+        "name": "energy",
+        "percent_serving_size": 1,
+        "kcal": 335
+      },
+      {
+        "name": "sugar",
+        "percent_serving_size": 3,
+        "vol": 2
+      },
+      {
+        "name": "fat",
+        "percent_serving_size": 32,
+        "vol": 2
+      },
+      {
+        "name": "sodium",
+        "percent_serving_size": 16,
+        "vol": 0.39
+      }
+    ],
+    "storage": [
+      "เก็บไว้ในที่แห้งและอุณหภูมิห้อง",
+      "ไม่ควรเก็บในที่แสงแดดส่องถึง"
+    ],
+    "allergy": [
+      "กลูเตน",
+      "สัตว์น้ำที่มีเปลือกแข็ง",
+      "ไข่",
+      "ปลา",
+      "ถั่วลิสง",
+      "ถั่วเหลือง",
+      "นม",
+      "ถั่วที่มีเปลือกแข็ง",
+      "ซัลไฟต์",
+      "เกลือไอโอดีน"
+    ]
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "vegan": false,
+    "halal": true,
+    "recycle": false,
+    "gluten_free": false,
+    "fat_free": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false
+  }
+}

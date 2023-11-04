@@ -1,0 +1,113 @@
+{
+  "product": "P1",
+  "th_name": "เพดดีกรี เดนต้าสติก สำหรับสุนัขพันธุ์กลาง",
+  "th_name_short": "ขนมสุนัข เพดดีกรี",
+  "en_name": "Pedigree Dentastix Medium Dog Treats",
+  "en_name_short": "Dog Treats",
+  "th_brand": "เพดดีกรี",
+  "en_brand": "Pedigree",
+  "manufacture_th": "บริษัท มาร์ส เพ็ทแคร์ (ประเทศไทย) จำกัด",
+  "manufacture_en": "Mars Petcare (Thailand) Co., Ltd.",
+  "publisher_th": "บริษัท มาร์ส เพ็ทแคร์ (ประเทศไทย) จำกัด",
+  "publisher_en": "Mars Petcare (Thailand) Co., Ltd.",
+  "size_en":"77 g",
+  "size_th": "77 กรัม",
+  "barcode": "5998749142301",
+  "type": 7,
+  "pets_food": {
+    "fda_code": "02 09 62 04",
+    "ingredient": [
+      {
+        "name_en": "wheat flour",
+        "name_th": "แป้งสาลี",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "glycerol",
+        "name_th": "กลีเซอรอล",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "gum",
+        "name_th": "กัม",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "sodium tripolyphosphate",
+        "name_th": "โซเดียมไตรโพลีฟอสเฟต",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "calcium carbonate",
+        "name_th": "แคลเซียมคาร์บอเนต",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "gelatin",
+        "name_th": "เจลาติน",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "potassium chloride",
+        "name_th": "โพแทสเซียมคลอไรด์",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "vitamin e",
+        "name_th": "วิตามินอี",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "feed additives",
+        "name_th": "สารถนอมคุณภาพอาหารสัตว์",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "zinc sulfate",
+        "name_th": "ซิงค์ซัลเฟต",
+        "percent_serving_size": -1,
+        "vol": -1
+      },
+      {
+        "name_en": "malt flavor",
+        "name_th": "สารปรุงแต่งกลิ่นรสมอลต์",
+        "percent_serving_size": -1,
+        "vol": -1
+      }
+    ],
+  "storage_en": [
+    "Should be stored in a dry and cool place."
+  ],
+    "storage_th": [
+      "ควรเก็บในที่เย็นและแห้ง"
+    ],
+    "usage": [],
+    "warning": []
+  },
+  "sign": {
+    "rainforest_alliance_certified": false,
+    "recycle": false,
+    "iso_9001": false,
+    "export_quality": false,
+    "biomat": false,
+    "environmental_friendly": false,
+    "no_cf_cs": false,
+    "bpa_free": false,
+    "thailand_trusted_quality_mark": false,
+    "alcohol_free": false,
+    "paraben_free": false,
+    "fragrance_free": false,
+    "non_irritation_tested": false,
+    "biodegradable": false,
+    "pycnogenol": false
+  }
+}
